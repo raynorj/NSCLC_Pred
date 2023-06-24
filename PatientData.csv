@@ -1,0 +1,780 @@
+Index	Sample name	Patient group	Classification group	Hospital	Storage time	Age	Gender	Smoking	Metastasis	Treatment	Matched cohort	Full cohort	GEO ID (GSE89843)
+1	Vumc-HD-161	Healthy Control	Non-cancer	VUMC	<12h	68	F	N	NA	NA	evaluation	evaluation	Vumc-HD-161-TR1522
+2	Vumc-HD-83	Healthy Control	Non-cancer	VUMC	<12h	65	F	N	NA	NA	evaluation	evaluation	Vumc-HD-83-TR891
+3	Vumc-HD-257	Healthy Control	Non-cancer	VUMC	<12h	65	M	N	NA	NA	evaluation	evaluation	Vumc-HD-257-TR1865
+4	Vumc-HD-283	Healthy Control	Non-cancer	VUMC	<12h	56	F	N	NA	NA	evaluation	training	Vumc-HD-283-TR1874
+5	Vumc-HD-53-1	Healthy Control	Non-cancer	VUMC	<12h	54	F	N	NA	NA	evaluation	training	Vumc-HD-53-1-TR1171
+6	Vumc-HD-159	Healthy Control	Non-cancer	VUMC	<12h	62	M	N	NA	NA	evaluation	training	Vumc-HD-159-TR1521
+7	Vumc-HD-173	Healthy Control	Non-cancer	VUMC	<12h	51	M	N	NA	NA	evaluation	evaluation	Vumc-HD-173-TR1488
+8	Vumc-HD-188	Healthy Control	Non-cancer	VUMC	<12h	60	F	N	NA	NA	evaluation	training	Vumc-HD-188-TR1849
+9	Vumc-HD-108	Healthy Control	Non-cancer	VUMC	<12h	56	F	N	NA	NA	evaluation	training	Vumc-HD-108-TR924
+10	Vumc-HD-82	Healthy Control	Non-cancer	VUMC	<12h	59	M	F	NA	NA	evaluation	evaluation	Vumc-HD-82-TR1082
+11	Vumc-HD-180	Healthy Control	Non-cancer	VUMC	<12h	63	F	F	NA	NA	evaluation	training	Vumc-HD-180-TR1523
+12	Vumc-HD-250	Healthy Control	Non-cancer	VUMC	<12h	55	M	N	NA	NA	evaluation	evaluation	Vumc-HD-250-TR1906
+13	Vumc-HD-103	Healthy Control	Non-cancer	VUMC	<12h	54	F	N	NA	NA	evaluation	evaluation	Vumc-HD-103-TR923
+14	Vumc-HD-50-1	Healthy Control	Non-cancer	VUMC	<12h	62	F	N	NA	NA	evaluation	evaluation	Vumc-HD-50-1-TR1169
+15	Vumc-HD-3-1	Healthy Control	Non-cancer	VUMC	<12h	53	F	N	NA	NA	evaluation	training	Vumc-HD-3-1-TR1149
+16	Vumc-P-HD-001-024	Healthy Control	Non-cancer	VUMC	<12h	71	M	NA	NA	NA	evaluation	training	Vumc-P-PH-001-024-TR1414
+17	Vumc-HD-142	Healthy Control	Non-cancer	VUMC	<12h	48	F	N	NA	NA	validation	evaluation	Vumc-HD-142-TR927
+18	Vumc-HD-144	Healthy Control	Non-cancer	VUMC	<12h	55	F	N	NA	NA	validation	training	Vumc-HD-144-TR929
+19	Vumc-HD-74	Healthy Control	Non-cancer	VUMC	<12h	60	F	N	NA	NA	validation	training	Vumc-HD-74-TR888
+20	Vumc-HD-106	Healthy Control	Non-cancer	VUMC	<12h	56	M	N	NA	NA	validation	training	Vumc-HD-106-TR1099
+21	Vumc-HD-111	Healthy Control	Non-cancer	VUMC	<12h	58	M	N	NA	NA	validation	evaluation	Vumc-HD-111-TR1103
+22	Vumc-HD-140	Healthy Control	Non-cancer	VUMC	<12h	54	M	F	NA	NA	validation	evaluation	Vumc-HD-140-TR1129
+23	Vumc-HD-20-1	Healthy Control	Non-cancer	VUMC	<12h	46	F	N	NA	NA	validation	training	Vumc-HD-20-1-TR1156
+24	Vumc-HD-2-1	Healthy Control	Non-cancer	VUMC	<12h	53	F	N	NA	NA	validation	evaluation	Vumc-HD-2-1-TR1148
+25	Vumc-HD-22-1	Healthy Control	Non-cancer	VUMC	<12h	52	F	N	NA	NA	validation	evaluation	Vumc-HD-22-1-TR1157
+26	Vumc-HD-49-1	Healthy Control	Non-cancer	VUMC	<12h	54	F	N	NA	NA	validation	evaluation	Vumc-HD-49-1-TR1168
+27	Vumc-HD-5	Healthy Control	Non-cancer	VUMC	<12h	64	F	Y	NA	NA	validation	training	Vumc-HD-5-TR1151
+28	Vumc-HD-76	Healthy Control	Non-cancer	VUMC	<12h	46	M	N	NA	NA	validation	training	Vumc-HD-76-TR1066
+29	Vumc-HD-77	Healthy Control	Non-cancer	VUMC	<12h	63	M	N	NA	NA	validation	training	Vumc-HD-77-TR1079
+30	Vumc-HD-79	Healthy Control	Non-cancer	VUMC	<12h	47	M	N	NA	NA	validation	training	Vumc-HD-79-TR1081
+31	Vumc-HD-52	Healthy Control	Non-cancer	VUMC	<12h	76	F	N	NA	NA	validation	training	Vumc-HD-52-TR1489
+32	Vumc-HD-1	Healthy Control	Non-cancer	VUMC	<12h	53	M	N	NA	NA	validation	evaluation	Vumc-HD-1-TR1679
+33	Vumc-HD-218	Healthy Control	Non-cancer	VUMC	<12h	54	F	Y	NA	NA	validation	evaluation	Vumc-HD-218-TR1905
+34	Vumc-HD-252	Healthy Control	Non-cancer	VUMC	<12h	56	M	N	NA	NA	validation	training	Vumc-HD-252-TR1860
+35	Vumc-HD-255	Healthy Control	Non-cancer	VUMC	<12h	56	M	N	NA	NA	validation	training	Vumc-HD-255-TR1863
+36	Vumc-HD-262	Healthy Control	Non-cancer	VUMC	<12h	55	F	N	NA	NA	validation	training	Vumc-HD-262-TR1866
+37	Vumc-HD-198	Healthy Control	Non-cancer	VUMC	<12h	55	F	N	NA	NA	validation	training	Vumc-HD-198-TR1907
+38	Vumc-HD-282	Healthy Control	Non-cancer	VUMC	<12h	53	M	N	NA	NA	validation	evaluation	Vumc-HD-282-TR1872
+39	Vumc-HD-272	Healthy Control	Non-cancer	VUMC	<12h	55	F	Y	NA	NA	validation	evaluation	Vumc-HD-272-TR1876
+40	Vumc-HD-220	Healthy Control	Non-cancer	VUMC	<12h	59	M	N	NA	NA	validation	training	Vumc-HD-220-TR1760
+41	Vumc-HD-264	Healthy Control	Non-cancer	VUMC	<12h	56	F	N	NA	NA	validation	training	Vumc-HD-264-TR1867
+42	Vumc-HD-266	Healthy Control	Non-cancer	VUMC	<12h	86	M	N	NA	NA	validation	evaluation	Vumc-HD-266-TR1869
+43	Vumc-HD-189	Healthy Control	Non-cancer	VUMC	<12h	69	F	N	NA	NA	validation	evaluation	Vumc-HD-189-TR1850
+44	Vumc-HD-175	Healthy Control	Non-cancer	VUMC	<12h	54	M	N	NA	NA	validation	training	Vumc-HD-175-TR1913
+45	Vumc-HD-263	Healthy Control	Non-cancer	VUMC	<12h	56	F	N	NA	NA	validation	training	Vumc-HD-263-TR1877
+46	Vumc-HD-256	Healthy Control	Non-cancer	VUMC	<12h	60	M	N	NA	NA	validation	training	Vumc-HD-256-TR1864
+47	Vumc-HD-199	Healthy Control	Non-cancer	VUMC	<12h	62	F	N	NA	NA	validation	training	Vumc-HD-199-TR1914
+48	Vumc-HD-98	Healthy Control	Non-cancer	VUMC	<12h	50	F	N	NA	NA	training	training	Vumc-HD-98-TR921
+49	Vumc-HD-102	Healthy Control	Non-cancer	VUMC	<12h	51	M	Y	NA	NA	training	evaluation	Vumc-HD-102-TR1096
+50	Vumc-HD-88	Healthy Control	Non-cancer	VUMC	<12h	50	F	N	NA	NA	training	evaluation	Vumc-HD-88-TR895
+51	Vumc-HD-56	Healthy Control	Non-cancer	VUMC	<12h	47	F	N	NA	NA	training	training	Vumc-HD-56-TR884
+52	Vumc-HD-78	Healthy Control	Non-cancer	VUMC	<12h	51	M	N	NA	NA	training	evaluation	Vumc-HD-78-TR1080
+53	Vumc-HD-63	Healthy Control	Non-cancer	VUMC	<12h	49	F	N	NA	NA	training	evaluation	Vumc-HD-63-TR886
+54	Vumc-HD-127	Healthy Control	Non-cancer	VUMC	<12h	52	F	N	NA	NA	training	evaluation	Vumc-HD-127-TR925
+55	Vumc-HD-130	Healthy Control	Non-cancer	VUMC	<12h	57	F	N	NA	NA	training	training	Vumc-HD-130-TR926
+56	UMCU-Healthy Control-1-0197	Healthy Control	Non-cancer	UMCU	<12h	54	F	Y	NA	NA	NA	validation	UMCU-HC-1-0197-TR824
+57	UMCU-Healthy Control-1-0198	Healthy Control	Non-cancer	UMCU	<12h	53	M	N	NA	NA	NA	validation	UMCU-HC-1-0198-TR820
+58	UMCU-Healthy Control-1-0199	Healthy Control	Non-cancer	UMCU	<12h	56	M	F	NA	NA	NA	validation	UMCU-HC-1-0199-TR825
+59	UMCU-Healthy Control-1-0200	Healthy Control	Non-cancer	UMCU	<12h	48	M	N	NA	NA	NA	validation	UMCU-HC-1-0200-TR816
+60	UMCU-Healthy Control-1-0201	Healthy Control	Non-cancer	UMCU	<12h	53	M	N	NA	NA	NA	validation	UMCU-HC-1-0201-TR821
+61	UMCU-Healthy Control-1-0202	Healthy Control	Non-cancer	UMCU	<12h	41	M	F	NA	NA	NA	validation	UMCU-HC-1-0202-TR812
+62	UMCU-Healthy Control-1-0203	Healthy Control	Non-cancer	UMCU	<12h	43	M	N	NA	NA	NA	validation	UMCU-HC-1-0203-TR814
+63	UMCU-Healthy Control-1-0204	Healthy Control	Non-cancer	UMCU	<12h	41	M	N	NA	NA	NA	validation	UMCU-HC-1-0204-TR813
+64	UMCU-Healthy Control-1-0205	Healthy Control	Non-cancer	UMCU	<12h	40	F	N	NA	NA	NA	validation	UMCU-HC-1-0205-TR811
+65	UMCU-Healthy Control-1-0206	Healthy Control	Non-cancer	UMCU	<12h	47	M	N	NA	NA	NA	validation	UMCU-HC-1-0206-TR815
+66	UMCU-Healthy Control-1-0207	Healthy Control	Non-cancer	UMCU	<12h	48	M	N	NA	NA	NA	validation	UMCU-HC-1-0207-TR817
+67	UMCU-Healthy Control-1-0208	Healthy Control	Non-cancer	UMCU	<12h	53	M	N	NA	NA	NA	validation	UMCU-HC-1-0208-TR822
+68	UMCU-Healthy Control-1-0209	Healthy Control	Non-cancer	UMCU	<12h	53	M	F	NA	NA	NA	validation	UMCU-HC-1-0209-TR823
+69	UMCU-Healthy Control-1-0211	Healthy Control	Non-cancer	UMCU	<12h	57	M	F	NA	NA	NA	validation	UMCU-HC-1-0211-TR826
+70	UMCU-Healthy Control-1-0212	Healthy Control	Non-cancer	UMCU	<12h	51	F	N	NA	NA	NA	validation	UMCU-HC-1-0212-TR818
+71	Vumc-HD-101	Healthy Control	Non-cancer	VUMC	<12h	35	F	N	NA	NA	NA	validation	Vumc-HD-101-TR922
+72	Vumc-HD-143	Healthy Control	Non-cancer	VUMC	<12h	38	F	N	NA	NA	NA	validation	Vumc-HD-143-TR928
+73	Vumc-HD-145	Healthy Control	Non-cancer	VUMC	<12h	38	F	N	NA	NA	NA	validation	Vumc-HD-145-TR930
+74	Vumc-HD-149	Healthy Control	Non-cancer	VUMC	<12h	39	F	F	NA	NA	NA	validation	Vumc-HD-149-TR932
+75	Vumc-HD-151	Healthy Control	Non-cancer	VUMC	<12h	42	F	N	NA	NA	NA	validation	Vumc-HD-151-TR933
+76	Vumc-HD-155	Healthy Control	Non-cancer	VUMC	<12h	42	F	N	NA	NA	NA	validation	Vumc-HD-155-TR934
+77	Vumc-HD-156	Healthy Control	Non-cancer	VUMC	<12h	42	F	N	NA	NA	NA	validation	Vumc-HD-156-TR935
+78	Vumc-HD-60	Healthy Control	Non-cancer	VUMC	<12h	44	F	N	NA	NA	NA	validation	Vumc-HD-60-TR885
+79	Vumc-HD-73	Healthy Control	Non-cancer	VUMC	<12h	40	F	N	NA	NA	NA	validation	Vumc-HD-73-TR887
+80	Vumc-HD-80	Healthy Control	Non-cancer	VUMC	<12h	39	F	N	NA	NA	NA	validation	Vumc-HD-80-TR889
+81	Vumc-HD-84	Healthy Control	Non-cancer	VUMC	<12h	37	F	N	NA	NA	NA	validation	Vumc-HD-84-TR892
+82	Vumc-HD-86	Healthy Control	Non-cancer	VUMC	<12h	45	F	Y	NA	NA	NA	validation	Vumc-HD-86-TR893
+83	Vumc-HD-87	Healthy Control	Non-cancer	VUMC	<12h	40	F	Y	NA	NA	NA	validation	Vumc-HD-87-TR894
+84	Vumc-HD-89	Healthy Control	Non-cancer	VUMC	<12h	45	F	N	NA	NA	NA	validation	Vumc-HD-89-TR896
+85	Vumc-HD-91	Healthy Control	Non-cancer	VUMC	<12h	59	F	N	NA	NA	NA	validation	Vumc-HD-91-TR897
+86	Vumc-HD-92	Healthy Control	Non-cancer	VUMC	<12h	36	F	N	NA	NA	NA	validation	Vumc-HD-92-TR920
+87	AMC-HD-001	Healthy Control	Non-cancer	AMC	>12h	23	M	N	NA	NA	NA	validation	AMC-HD-001-TR1139
+88	AMC-HD-002	Healthy Control	Non-cancer	AMC	>12h	20	F	Y	NA	NA	NA	validation	AMC-HD-002-TR1140
+89	AMC-HD-003	Healthy Control	Non-cancer	AMC	>12h	21	F	N	NA	NA	NA	validation	AMC-HD-003-TR1141
+90	AMC-HD-004	Healthy Control	Non-cancer	AMC	>12h	21	F	N	NA	NA	NA	validation	AMC-HD-004-TR1142
+91	AMC-HD-005	Healthy Control	Non-cancer	AMC	>12h	21	F	N	NA	NA	NA	validation	AMC-HD-005-TR1143
+92	AMC-HD-006	Healthy Control	Non-cancer	AMC	>12h	22	F	N	NA	NA	NA	validation	AMC-HD-006-TR1144
+93	AMC-HD-007	Healthy Control	Non-cancer	AMC	>12h	30	F	Y	NA	NA	NA	validation	AMC-HD-007-TR1145
+94	AMC-HD-008	Healthy Control	Non-cancer	AMC	>12h	24	M	N	NA	NA	NA	validation	AMC-HD-008-TR1146
+95	AMC-HD-010	Healthy Control	Non-cancer	AMC	>12h	42	F	N	NA	NA	NA	validation	AMC-HD-010-TR1147
+96	Vumc-HD-100	Healthy Control	Non-cancer	VUMC	<12h	33	F	N	NA	NA	NA	validation	Vumc-HD-100-TR1095
+97	Vumc-HD-104	Healthy Control	Non-cancer	VUMC	<12h	34	M	N	NA	NA	NA	validation	Vumc-HD-104-TR1097
+98	Vumc-HD-105	Healthy Control	Non-cancer	VUMC	<12h	35	M	N	NA	NA	NA	validation	Vumc-HD-105-TR1098
+99	Vumc-HD-107	Healthy Control	Non-cancer	VUMC	<12h	24	F	Y	NA	NA	NA	validation	Vumc-HD-107-TR1100
+100	Vumc-HD-109	Healthy Control	Non-cancer	VUMC	<12h	26	M	N	NA	NA	NA	validation	Vumc-HD-109-TR1101
+101	Vumc-HD-110	Healthy Control	Non-cancer	VUMC	<12h	23	F	N	NA	NA	NA	validation	Vumc-HD-110-TR1102
+102	Vumc-HD-11-1	Healthy Control	Non-cancer	VUMC	<12h	27	F	N	NA	NA	NA	validation	Vumc-HD-11-1-TR1153
+103	Vumc-HD-112	Healthy Control	Non-cancer	VUMC	<12h	21	F	N	NA	NA	NA	validation	Vumc-HD-112-TR1104
+104	Vumc-HD-113	Healthy Control	Non-cancer	VUMC	<12h	22	F	N	NA	NA	NA	validation	Vumc-HD-113-TR1105
+105	Vumc-HD-114	Healthy Control	Non-cancer	VUMC	<12h	21	M	N	NA	NA	NA	validation	Vumc-HD-114-TR1106
+106	Vumc-HD-115	Healthy Control	Non-cancer	VUMC	<12h	29	F	N	NA	NA	NA	validation	Vumc-HD-115-TR1107
+107	Vumc-HD-116	Healthy Control	Non-cancer	VUMC	<12h	32	F	N	NA	NA	NA	validation	Vumc-HD-116-TR1108
+108	Vumc-HD-117	Healthy Control	Non-cancer	VUMC	<12h	35	M	N	NA	NA	NA	validation	Vumc-HD-117-TR1109
+109	Vumc-HD-118	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-118-TR1110
+110	Vumc-HD-119	Healthy Control	Non-cancer	VUMC	<12h	32	F	N	NA	NA	NA	validation	Vumc-HD-119-TR1111
+111	Vumc-HD-120	Healthy Control	Non-cancer	VUMC	<12h	33	F	N	NA	NA	NA	validation	Vumc-HD-120-TR1112
+112	Vumc-HD-121	Healthy Control	Non-cancer	VUMC	<12h	25	M	N	NA	NA	NA	validation	Vumc-HD-121-TR1113
+113	Vumc-HD-122	Healthy Control	Non-cancer	VUMC	<12h	25	F	N	NA	NA	NA	validation	Vumc-HD-122-TR1114
+114	Vumc-HD-123	Healthy Control	Non-cancer	VUMC	<12h	27	F	N	NA	NA	NA	validation	Vumc-HD-123-TR1115
+115	Vumc-HD-124	Healthy Control	Non-cancer	VUMC	<12h	30	M	N	NA	NA	NA	validation	Vumc-HD-124-TR1116
+116	Vumc-HD-125	Healthy Control	Non-cancer	VUMC	<12h	34	M	N	NA	NA	NA	validation	Vumc-HD-125-TR1117
+117	Vumc-HD-126	Healthy Control	Non-cancer	VUMC	<12h	32	F	N	NA	NA	NA	validation	Vumc-HD-126-TR1118
+118	Vumc-HD-128	Healthy Control	Non-cancer	VUMC	<12h	24	F	N	NA	NA	NA	validation	Vumc-HD-128-TR1119
+119	Vumc-HD-129	Healthy Control	Non-cancer	VUMC	<12h	33	F	N	NA	NA	NA	validation	Vumc-HD-129-TR1120
+120	Vumc-HD-131	Healthy Control	Non-cancer	VUMC	<12h	24	M	Y	NA	NA	NA	validation	Vumc-HD-131-TR1121
+121	Vumc-HD-132	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-132-TR1122
+122	Vumc-HD-133	Healthy Control	Non-cancer	VUMC	<12h	32	M	N	NA	NA	NA	validation	Vumc-HD-133-TR1123
+123	Vumc-HD-135	Healthy Control	Non-cancer	VUMC	<12h	23	F	Y	NA	NA	NA	validation	Vumc-HD-135-TR1124
+124	Vumc-HD-136	Healthy Control	Non-cancer	VUMC	<12h	20	F	N	NA	NA	NA	validation	Vumc-HD-136-TR1125
+125	Vumc-HD-138	Healthy Control	Non-cancer	VUMC	<12h	18	M	N	NA	NA	NA	validation	Vumc-HD-138-TR1127
+126	Vumc-HD-139	Healthy Control	Non-cancer	VUMC	<12h	18	M	N	NA	NA	NA	validation	Vumc-HD-139-TR1128
+127	Vumc-HD-141	Healthy Control	Non-cancer	VUMC	<12h	41	M	N	NA	NA	NA	validation	Vumc-HD-141-TR1130
+128	Vumc-HD-146	Healthy Control	Non-cancer	VUMC	<12h	33	M	Y	NA	NA	NA	validation	Vumc-HD-146-TR1131
+129	Vumc-HD-147	Healthy Control	Non-cancer	VUMC	<12h	26	M	Y	NA	NA	NA	validation	Vumc-HD-147-TR1132
+130	Vumc-HD-150	Healthy Control	Non-cancer	VUMC	<12h	32	F	N	NA	NA	NA	validation	Vumc-HD-150-TR1133
+131	Vumc-HD-15-1	Healthy Control	Non-cancer	VUMC	<12h	26	F	N	NA	NA	NA	validation	Vumc-HD-15-1-TR1154
+132	Vumc-HD-152	Healthy Control	Non-cancer	VUMC	<12h	32	F	N	NA	NA	NA	validation	Vumc-HD-152-TR1134
+133	Vumc-HD-153	Healthy Control	Non-cancer	VUMC	<12h	26	F	N	NA	NA	NA	validation	Vumc-HD-153-TR1135
+134	Vumc-HD-154	Healthy Control	Non-cancer	VUMC	<12h	26	F	N	NA	NA	NA	validation	Vumc-HD-154-TR1136
+135	Vumc-HD-157	Healthy Control	Non-cancer	VUMC	<12h	37	M	N	NA	NA	NA	validation	Vumc-HD-157-TR1137
+136	Vumc-HD-158	Healthy Control	Non-cancer	VUMC	<12h	26	M	N	NA	NA	NA	validation	Vumc-HD-158-TR1138
+137	Vumc-HD-16-1	Healthy Control	Non-cancer	VUMC	<12h	43	F	N	NA	NA	NA	validation	Vumc-HD-16-1-TR1155
+138	Vumc-HD-17-1	Healthy Control	Non-cancer	VUMC	<12h	27	F	N	NA	NA	NA	validation	Vumc-HD-17-1-TR1160
+139	Vumc-HD-21-1	Healthy Control	Non-cancer	VUMC	<12h	39	F	Y	NA	NA	NA	validation	Vumc-HD-21-1-TR1161
+140	Vumc-HD-27-2	Healthy Control	Non-cancer	VUMC	<12h	36	F	N	NA	NA	NA	validation	Vumc-HD-27-2-TR1162
+141	Vumc-HD-30-2	Healthy Control	Non-cancer	VUMC	<12h	29	F	N	NA	NA	NA	validation	Vumc-HD-30-2-TR1163
+142	Vumc-HD-32-2	Healthy Control	Non-cancer	VUMC	<12h	27	F	Y	NA	NA	NA	validation	Vumc-HD-32-2-TR1164
+143	Vumc-HD-36	Healthy Control	Non-cancer	VUMC	<12h	38	F	N	NA	NA	NA	validation	Vumc-HD-36-TR1165
+144	Vumc-HD-39-1	Healthy Control	Non-cancer	VUMC	<12h	22	F	N	NA	NA	NA	validation	Vumc-HD-39-1-TR1158
+145	Vumc-HD-40-1	Healthy Control	Non-cancer	VUMC	<12h	21	F	N	NA	NA	NA	validation	Vumc-HD-40-1-TR1159
+146	Vumc-HD-44-2	Healthy Control	Non-cancer	VUMC	<12h	33	F	N	NA	NA	NA	validation	Vumc-HD-44-2-TR1166
+147	Vumc-HD-47-1	Healthy Control	Non-cancer	VUMC	<12h	49	F	NA	NA	NA	NA	validation	Vumc-HD-47-1-TR1167
+148	Vumc-HD-4	Healthy Control	Non-cancer	VUMC	<12h	43	F	NA	NA	NA	NA	validation	Vumc-HD-4-TR1150
+149	Vumc-HD-51-1	Healthy Control	Non-cancer	VUMC	<12h	41	F	N	NA	NA	NA	validation	Vumc-HD-51-1-TR1170
+150	Vumc-HD-54-1	Healthy Control	Non-cancer	VUMC	<12h	64	F	NA	NA	NA	NA	validation	Vumc-HD-54-1-TR1172
+151	Vumc-HD-59	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-59-TR1093
+152	Vumc-HD-66	Healthy Control	Non-cancer	VUMC	<12h	34	M	N	NA	NA	NA	validation	Vumc-HD-66-TR1058
+153	Vumc-HD-67	Healthy Control	Non-cancer	VUMC	<12h	27	M	N	NA	NA	NA	validation	Vumc-HD-67-TR1059
+154	Vumc-HD-68	Healthy Control	Non-cancer	VUMC	<12h	45	M	N	NA	NA	NA	validation	Vumc-HD-68-TR1060
+155	Vumc-HD-69	Healthy Control	Non-cancer	VUMC	<12h	24	F	F	NA	NA	NA	validation	Vumc-HD-69-TR1061
+156	Vumc-HD-70	Healthy Control	Non-cancer	VUMC	<12h	45	M	N	NA	NA	NA	validation	Vumc-HD-70-TR1062
+157	Vumc-HD-71	Healthy Control	Non-cancer	VUMC	<12h	26	M	N	NA	NA	NA	validation	Vumc-HD-71-TR1063
+158	Vumc-HD-72	Healthy Control	Non-cancer	VUMC	<12h	21	M	N	NA	NA	NA	validation	Vumc-HD-72-TR1064
+159	Vumc-HD-75	Healthy Control	Non-cancer	VUMC	<12h	27	F	Y	NA	NA	NA	validation	Vumc-HD-75-TR1065
+160	Vumc-HD-85	Healthy Control	Non-cancer	VUMC	<12h	43	M	N	NA	NA	NA	validation	Vumc-HD-85-TR1084
+161	Vumc-HD-90	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-90-TR1083
+162	Vumc-HD-93	Healthy Control	Non-cancer	VUMC	<12h	24	F	N	NA	NA	NA	validation	Vumc-HD-93-TR1085
+163	Vumc-HD-94	Healthy Control	Non-cancer	VUMC	<12h	40	M	N	NA	NA	NA	validation	Vumc-HD-94-TR1086
+164	Vumc-HD-95	Healthy Control	Non-cancer	VUMC	<12h	43	M	N	NA	NA	NA	validation	Vumc-HD-95-TR1087
+165	Vumc-HD-96	Healthy Control	Non-cancer	VUMC	<12h	37	M	Y	NA	NA	NA	validation	Vumc-HD-96-TR1088
+166	Vumc-HD-97	Healthy Control	Non-cancer	VUMC	<12h	29	M	Y	NA	NA	NA	validation	Vumc-HD-97-TR1089
+167	Vumc-HD-99	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-99-TR1094
+168	Vumc-HD-9	Healthy Control	Non-cancer	VUMC	<12h	41	F	N	NA	NA	NA	validation	Vumc-HD-9-TR1152
+169	Vumc-HDControl-10	Healthy Control	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-HDControl-10-TR1183
+170	Vumc-HDControl-6	Healthy Control	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-HDControl-6-TR1180
+171	Vumc-HDControl-8	Healthy Control	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-HDControl-8-TR1181
+172	Vumc-HDControl-9	Healthy Control	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-HDControl-9-TR1182
+173	UMEA-Pca-B7-19N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	B7-19N
+174	UMEA-Pca-C3-12N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	C3-12N
+175	UMEA-Pca-E12-24N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	E12-24N
+176	UMEA-Pca-E1-5N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	E1-5N
+177	UMEA-Pca-G2-101N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G2-101N
+178	UMEA-Pca-G3-102N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G3-102N
+179	UMEA-Pca-G4-103N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G4-103N
+180	UMEA-Pca-G5-104N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G5-104N
+181	UMEA-Pca-G6-105N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G6-105N
+182	UMEA-Pca-G7-106N	Healthy Control	Non-cancer	UMEA	<12h	NA	M	NA	NA	NA	NA	validation	G7-106N
+183	Vumc-HD-18-2	Healthy Control	Non-cancer	VUMC	<12h	35	M	Y	NA	NA	NA	validation	Vumc-HD-18-2-TR1643
+184	Vumc-HD-8	Healthy Control	Non-cancer	VUMC	<12h	49	M	N	NA	NA	NA	validation	Vumc-HD-8-TR1641
+185	Vumc-HD-242	Healthy Control	Non-cancer	VUMC	<12h	51	M	N	NA	NA	NA	validation	Vumc-HD-242-TR1720
+186	Vumc-HD-46-2	Healthy Control	Non-cancer	VUMC	<12h	22	M	N	NA	NA	NA	validation	Vumc-HD-46-2-TR1680
+187	Vumc-HD-241	Healthy Control	Non-cancer	VUMC	<12h	61	M	N	NA	NA	NA	validation	Vumc-HD-241-TR1721
+188	Vumc-HD-24-2	Healthy Control	Non-cancer	VUMC	<12h	36	M	N	NA	NA	NA	validation	Vumc-HD-24-2-TR1573
+189	Vumc-HD-26-2	Healthy Control	Non-cancer	VUMC	<12h	26	M	N	NA	NA	NA	validation	Vumc-HD-26-2-TR1575
+190	Vumc-HD-29-2	Healthy Control	Non-cancer	VUMC	<12h	24	M	N	NA	NA	NA	validation	Vumc-HD-29-2-TR1576
+191	Vumc-HD-6-2	Healthy Control	Non-cancer	VUMC	<12h	62	M	Y	NA	NA	NA	validation	Vumc-HD-6-2-TR1639
+192	Vumc-HD-234	Healthy Control	Non-cancer	VUMC	<12h	53	F	N	NA	NA	NA	validation	Vumc-HD-234-TR1717
+193	Vumc-HD-37-2	Healthy Control	Non-cancer	VUMC	<12h	31	M	N	NA	NA	NA	validation	Vumc-HD-37-2-TR1580
+194	Vumc-HD-10-2	Healthy Control	Non-cancer	VUMC	<12h	44	M	N	NA	NA	NA	validation	Vumc-HD-10-2-TR1642
+195	Vumc-HD-226	Healthy Control	Non-cancer	VUMC	<12h	57	F	N	NA	NA	NA	validation	Vumc-HD-226-TR1718
+196	Vumc-HD-237	Healthy Control	Non-cancer	VUMC	<12h	53	M	N	NA	NA	NA	validation	Vumc-HD-237-TR1719
+197	Vumc-HD-14-1	Healthy Control	Non-cancer	VUMC	<12h	34	M	Y	NA	NA	NA	validation	Vumc-HD-14-1-TR1571
+198	Vumc-HD-31-2	Healthy Control	Non-cancer	VUMC	<12h	35	M	Y	NA	NA	NA	validation	Vumc-HD-31-2-TR1577
+199	Vumc-HD-35-2	Healthy Control	Non-cancer	VUMC	<12h	29	M	N	NA	NA	NA	validation	Vumc-HD-35-2-TR1579
+200	Vumc-HD-38-2	Healthy Control	Non-cancer	VUMC	<12h	23	M	N	NA	NA	NA	validation	Vumc-HD-38-2-TR1581
+201	Vumc-HD-25-2	Healthy Control	Non-cancer	VUMC	<12h	28	M	N	NA	NA	NA	validation	Vumc-HD-25-2-TR1574
+202	Vumc-HD-13-2	Healthy Control	Non-cancer	VUMC	<12h	25	M	N	NA	NA	NA	validation	Vumc-HD-13-2-TR1570
+203	Vumc-HD-48-1	Healthy Control	Non-cancer	VUMC	<12h	53	M	N	NA	NA	NA	validation	Vumc-HD-48-1-TR1666
+204	Vumc-HD-34-1	Healthy Control	Non-cancer	VUMC	<12h	57	M	N	NA	NA	NA	validation	Vumc-HD-34-1-TR1578
+205	Vumc-HD-45-2	Healthy Control	Non-cancer	VUMC	<12h	51	M	N	NA	NA	NA	validation	Vumc-HD-45-2-TR1582
+206	Vumc-HD-254	Healthy Control	Non-cancer	VUMC	<12h	50	M	N	NA	NA	NA	validation	Vumc-HD-254-TR1862
+207	Vumc-HD-162	Healthy Control	Non-cancer	VUMC	<12h	42	F	N	NA	NA	NA	validation	Vumc-HD-162-TR1756
+208	Vumc-HD-169	Healthy Control	Non-cancer	VUMC	<12h	42	F	N	NA	NA	NA	validation	Vumc-HD-169-TR1758
+209	Vumc-HD-247	Healthy Control	Non-cancer	VUMC	<12h	52	M	Y	NA	NA	NA	validation	Vumc-HD-247-TR1859
+210	Vumc-HD-253	Healthy Control	Non-cancer	VUMC	<12h	50	M	N	NA	NA	NA	validation	Vumc-HD-253-TR1861
+211	Vumc-HD-33-1	Healthy Control	Non-cancer	VUMC	<12h	26	M	Y	NA	NA	NA	validation	Vumc-HD-33-1-TR1637
+212	Vumc-HD-265	Healthy Control	Non-cancer	VUMC	<12h	49	M	N	NA	NA	NA	validation	Vumc-HD-265-TR1868
+213	Vumc-HD-163	Healthy Control	Non-cancer	VUMC	<12h	44	F	N	NA	NA	NA	validation	Vumc-HD-163-TR1757
+214	Vumc-HD-186	Healthy Control	Non-cancer	VUMC	<12h	47	F	N	NA	NA	NA	validation	Vumc-HD-186-TR1759
+215	Vumc-HD-231	Healthy Control	Non-cancer	VUMC	<12h	67	M	F	NA	NA	NA	validation	Vumc-HD-231-TR1880
+216	Vumc-HD-228	Healthy Control	Non-cancer	VUMC	<12h	58	F	Y	NA	NA	NA	validation	Vumc-HD-228-TR1883
+217	Vumc-HD-225	Healthy Control	Non-cancer	VUMC	<12h	55	F	N	NA	NA	NA	validation	Vumc-HD-225-TR1884
+218	Vumc-HD-236	Healthy Control	Non-cancer	VUMC	<12h	63	F	N	NA	NA	NA	validation	Vumc-HD-236-TR1782
+219	Vumc-HD-195	Healthy Control	Non-cancer	VUMC	<12h	52	F	N	NA	NA	NA	validation	Vumc-HD-195-TR1851
+220	Vumc-HD-235	Healthy Control	Non-cancer	VUMC	<12h	50	F	N	NA	NA	NA	validation	Vumc-HD-235-TR1761
+221	Vumc-HD-239	Healthy Control	Non-cancer	VUMC	<12h	48	F	Y	NA	NA	NA	validation	Vumc-HD-239-TR1781
+222	Vumc-HD-196	Healthy Control	Non-cancer	VUMC	<12h	47	F	N	NA	NA	NA	validation	Vumc-HD-196-TR1852
+223	Vumc-HD-244	Healthy Control	Non-cancer	VUMC	<12h	44	M	N	NA	NA	NA	validation	Vumc-HD-244-TR1780
+224	Vumc-HD-230	Healthy Control	Non-cancer	VUMC	<12h	52	F	F	NA	NA	NA	validation	Vumc-HD-230-TR1881
+225	Vumc-HD-229	Healthy Control	Non-cancer	VUMC	<12h	51	F	Y	NA	NA	NA	validation	Vumc-HD-229-TR1882
+226	Vumc-HD-224	Healthy Control	Non-cancer	VUMC	<12h	59	F	N	NA	NA	NA	validation	Vumc-HD-224-TR1885
+227	Vumc-HD-233	Healthy Control	Non-cancer	VUMC	<12h	55	F	N	NA	NA	NA	validation	Vumc-HD-233-TR1879
+228	Vumc-HD-280	Healthy Control	Non-cancer	VUMC	<12h	50	F	N	NA	NA	NA	validation	Vumc-HD-280-TR1870
+229	Vumc-HD-238	Healthy Control	Non-cancer	VUMC	<12h	51	F	Y	NA	NA	NA	validation	Vumc-HD-238-TR1878
+230	Vumc-HD-217	Healthy Control	Non-cancer	VUMC	<12h	52	F	N	NA	NA	NA	validation	Vumc-HD-217-TR1915
+231	Vumc-HD-246	Healthy Control	Non-cancer	VUMC	<12h	48	M	N	NA	NA	NA	validation	Vumc-HD-246-TR1916
+232	UMCU-HC-1-0210	Healthy Control	Non-cancer	UMCU	<12h	52	F	N	NA	NA	NA	validation	UMCU-HC-1-0210-TR819
+233	Vumc-HD-148	Healthy Control	Non-cancer	VUMC	<12h	51	F	N	NA	NA	NA	validation	Vumc-HD-148-TR931
+234	Vumc-HD-227	Healthy Control	Non-cancer	VUMC	<12h	51	F	N	NA	NA	NA	validation	Vumc-HD-227-TR1716
+235	Vumc-ChronPan-29	Chronic Pancreatitis	Non-cancer	VUMC	<12h	62	M	Y	NA	NA	NA	validation	Vumc-ChronPan-29-TR1045
+236	Vumc-ChronPan-61	Chronic Pancreatitis	Non-cancer	VUMC	<12h	69	M	N	NA	NA	training	training	Vumc-ChronPan-61-TR1047
+237	Pisa-ChronPan-2015VIT	Chronic Pancreatitis	Non-cancer	PISA	<12h	NA	NA	NA	NA	NA	NA	validation	Pisa-ChronPan-2015VIT-TR972
+238	Vumc-ChronPan-59	Chronic Pancreatitis	Non-cancer	VUMC	<12h	60	F	N	NA	NA	NA	validation	Vumc-ChronPan-59-TR1046
+239	Vumc-ChronPan-1-2016584	Chronic Pancreatitis	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-ChronPan-1-2016584-TR1946
+240	Vumc-ChronPan-21-2016119	Chronic Pancreatitis	Non-cancer	VUMC	<12h	NA	NA	NA	NA	NA	NA	validation	Vumc-ChronPan-21-2016119-TR1947
+241	Vumc-EPI-021	Epilepsy	Non-cancer	VUMC	<12h	46	M	N	NA	NA	validation	training	Vumc-EPI-016-TR1437
+242	Vumc-EPI008	Epilepsy	Non-cancer	VUMC	<12h	58	M	Y	NA	NA	training	training	Vumc-EPI008-TR802
+243	Vumc-EPI-002	Epilepsy	Non-cancer	VUMC	<12h	51	M	F	NA	NA	training	evaluation	Vumc-EPI-002-TR1462
+244	Vumc-EPI-022	Epilepsy	Non-cancer	VUMC	<12h	53	M	NA	NA	NA	training	evaluation	Vumc-EPI-022-TR1438
+245	Vumc-EPI006	Epilepsy	Non-cancer	VUMC	<12h	54	F	NA	NA	NA	training	training	Vumc-EPI006-TR800
+246	Vumc-EPI005	Epilepsy	Non-cancer	VUMC	<12h	62	M	NA	NA	NA	training	training	Vumc-EPI005-TR799
+247	Vumc-EPI003	Epilepsy	Non-cancer	VUMC	<12h	27	F	NA	NA	NA	NA	validation	Vumc-EPI003-TR797
+248	Vumc-EPI004	Epilepsy	Non-cancer	VUMC	<12h	18	M	NA	NA	NA	NA	validation	Vumc-EPI004-TR798
+249	Vumc-EPI-015	Epilepsy	Non-cancer	VUMC	<12h	45	M	F	NA	NA	NA	validation	Vumc-EPI-015-TR1435
+250	Vumc-EPI-007	Epilepsy	Non-cancer	VUMC	<12h	21	F	NA	NA	NA	NA	validation	Vumc-EPI-007-TR1463
+251	Vumc-EPI-011	Epilepsy	Non-cancer	VUMC	<12h	39	M	F	NA	NA	NA	validation	Vumc-EPI-011-TR1465
+252	Vumc-EPI-013	Epilepsy	Non-cancer	VUMC	<12h	22	F	N	NA	NA	NA	validation	Vumc-EPI-013-TR1467
+253	Vumc-EPI-014	Epilepsy	Non-cancer	VUMC	<12h	23	M	N	NA	NA	NA	validation	Vumc-EPI-014-TR1427
+254	Vumc-EPI-001	Epilepsy	Non-cancer	VUMC	<12h	32	F	NA	NA	NA	NA	validation	Vumc-EPI-001-TR1425
+255	Vumc-EPI-009	Epilepsy	Non-cancer	VUMC	<12h	21	M	NA	NA	NA	NA	validation	Vumc-EPI-009-TR1464
+256	Vumc-EPI-012	Epilepsy	Non-cancer	VUMC	<12h	18	F	N	NA	NA	NA	validation	Vumc-EPI-012-TR1466
+257	Vumc-EPI-010	Epilepsy	Non-cancer	VUMC	<12h	25	F	N	NA	NA	NA	validation	Vumc-EPI-010-TR1426
+258	Vumc-EPI-016	Epilepsy	Non-cancer	VUMC	<12h	19	F	F	NA	NA	NA	validation	Vumc-EPI-016-TR1436
+259	Vumc-EPI-019	Epilepsy	Non-cancer	VUMC	<12h	41	M	N	NA	NA	NA	validation	Vumc-EPI-019-TR1525
+260	Vumc-EPI-018	Epilepsy	Non-cancer	VUMC	<12h	24	M	Y	NA	NA	NA	validation	Vumc-EPI-018-TR1524
+261	Vumc-EPI-020	Epilepsy	Non-cancer	VUMC	<12h	28	F	NA	NA	NA	NA	validation	Vumc-EPI-020-TR1526
+262	Vumc-MS-010	Multiple Sclerosis	Non-cancer	VUMC	<12h	49	F	NA	NA	NA	validation	training	Vumc-MS-010-TR644
+263	Vumc-MS-019	Multiple Sclerosis	Non-cancer	VUMC	<12h	51	F	NA	NA	NA	validation	training	Vumc-MS-019-TR855
+264	Vumc-MS-009	Multiple Sclerosis	Non-cancer	VUMC	<12h	47	F	NA	NA	NA	training	evaluation	Vumc-MS-009-TR643
+265	Vumc-MS-002	Multiple Sclerosis	Non-cancer	VUMC	<12h	57	M	NA	NA	NA	training	training	Vumc-MS-002-TR637
+266	Vumc-MS-004	Multiple Sclerosis	Non-cancer	VUMC	<12h	61	F	NA	NA	NA	training	training	Vumc-MS-004-TR639
+267	Vumc-MS-003	Multiple Sclerosis	Non-cancer	VUMC	<12h	62	M	NA	NA	NA	training	evaluation	Vumc-MS-003-TR638
+268	Vumc-MS-001	Multiple Sclerosis	Non-cancer	VUMC	<12h	39	F	NA	NA	NA	NA	validation	Vumc-MS-001-TR636
+269	Vumc-MS-005	Multiple Sclerosis	Non-cancer	VUMC	<12h	43	F	NA	NA	NA	NA	validation	Vumc-MS-005-TR640
+270	Vumc-MS-007	Multiple Sclerosis	Non-cancer	VUMC	<12h	39	M	NA	NA	NA	NA	validation	Vumc-MS-007-TR641
+271	Vumc-MS-008	Multiple Sclerosis	Non-cancer	VUMC	<12h	40	F	NA	NA	NA	NA	validation	Vumc-MS-008-TR642
+272	Vumc-MS-011	Multiple Sclerosis	Non-cancer	VUMC	<12h	46	F	NA	NA	NA	NA	validation	Vumc-MS-011-TR645
+273	Vumc-MS-013	Multiple Sclerosis	Non-cancer	VUMC	<12h	44	F	NA	NA	NA	NA	validation	Vumc-MS-013-TR672
+274	Vumc-MS-014	Multiple Sclerosis	Non-cancer	VUMC	<12h	37	M	NA	NA	NA	NA	validation	Vumc-MS-014-TR673
+275	Vumc-MS-015	Multiple Sclerosis	Non-cancer	VUMC	<12h	46	F	NA	NA	NA	NA	validation	Vumc-MS-015-TR696
+276	Vumc-MS-012	Multiple Sclerosis	Non-cancer	VUMC	<12h	40	F	NA	NA	NA	NA	validation	Vumc-MS-012-TR850
+277	Vumc-MS-016	Multiple Sclerosis	Non-cancer	VUMC	<12h	39	F	NA	NA	NA	NA	validation	Vumc-MS-016-TR852
+278	Vumc-MS-017	Multiple Sclerosis	Non-cancer	VUMC	<12h	43	F	NA	NA	NA	NA	validation	Vumc-MS-017-TR853
+279	Vumc-MS-018	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	F	NA	NA	NA	NA	validation	Vumc-MS-018-TR854
+280	Vumc-MS-025	Multiple Sclerosis	Non-cancer	VUMC	<12h	34	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-025-TR1433
+281	Vumc-MS-042	Multiple Sclerosis	Non-cancer	VUMC	<12h	41	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-042-TR1443
+282	Vumc-MS-023	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-023-TR1431
+283	Vumc-MS-039	Multiple Sclerosis	Non-cancer	VUMC	<12h	47	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-039-TR1440
+284	Vumc-MS-040	Multiple Sclerosis	Non-cancer	VUMC	<12h	35	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-040-TR1441
+285	Vumc-MS-030	Multiple Sclerosis	Non-cancer	VUMC	<12h	68	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-030-TR1471
+286	Vumc-MS-032	Multiple Sclerosis	Non-cancer	VUMC	<12h	41	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-032-TR1473
+287	Vumc-MS-021	Multiple Sclerosis	Non-cancer	VUMC	<12h	48	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-021-TR1429
+288	Vumc-MS-020	Multiple Sclerosis	Non-cancer	VUMC	<12h	43	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-020-TR1428
+289	Vumc-MS-022	Multiple Sclerosis	Non-cancer	VUMC	<12h	45	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-022-TR1430
+290	Vumc-MS-024	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-024-TR1432
+291	Vumc-MS-037	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-037-TR1477
+292	Vumc-MS-027	Multiple Sclerosis	Non-cancer	VUMC	<12h	35	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-027-TR1468
+293	Vumc-MS-029	Multiple Sclerosis	Non-cancer	VUMC	<12h	54	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-029-TR1470
+294	Vumc-MS-044	Multiple Sclerosis	Non-cancer	VUMC	<12h	39	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-044-TR1445
+295	Vumc-MS-031	Multiple Sclerosis	Non-cancer	VUMC	<12h	56	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-031-TR1472
+296	Vumc-MS-034	Multiple Sclerosis	Non-cancer	VUMC	<12h	59	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-034-TR1474
+297	Vumc-MS-038	Multiple Sclerosis	Non-cancer	VUMC	<12h	61	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-038-TR1478
+298	Vumc-MS-041	Multiple Sclerosis	Non-cancer	VUMC	<12h	53	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-041-TR1442
+299	Vumc-MS-043	Multiple Sclerosis	Non-cancer	VUMC	<12h	49	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-043-TR1444
+300	Vumc-MS-045	Multiple Sclerosis	Non-cancer	VUMC	<12h	44	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-045-TR1446
+301	Vumc-MS-036	Multiple Sclerosis	Non-cancer	VUMC	<12h	48	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-036-TR1476
+302	Vumc-MS-048	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-048-TR1529
+303	Vumc-MS-026	Multiple Sclerosis	Non-cancer	VUMC	<12h	51	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-026-TR1439
+304	Vumc-MS-049	Multiple Sclerosis	Non-cancer	VUMC	<12h	30	F	NA	NA	NA	NA	validation	Vumc-MS-Presto-049-TR1530
+305	Vumc-MS-035	Multiple Sclerosis	Non-cancer	VUMC	<12h	49	M	NA	NA	NA	NA	validation	Vumc-MS-Presto-035-TR1475
+306	Vumc-MS-033	Multiple Sclerosis	Non-cancer	VUMC	<12h	61	M	NA	NA	NA	NA	validation	Vumc-MS-033-TR1585
+307	Vumc-MS-062	Multiple Sclerosis	Non-cancer	VUMC	<12h	42	F	NA	NA	NA	NA	validation	Vumc-MS-062-TR1540
+308	Vumc-MS-055	Multiple Sclerosis	Non-cancer	VUMC	<12h	47	F	NA	NA	NA	NA	validation	Vumc-MS-055-TR1586
+309	Vumc-MS-050	Multiple Sclerosis	Non-cancer	VUMC	<12h	53	M	NA	NA	NA	NA	validation	Vumc-MS-050-TR1531
+310	Vumc-MS-056	Multiple Sclerosis	Non-cancer	VUMC	<12h	52	F	NA	NA	NA	NA	validation	Vumc-MS-056-TR1535
+311	Vumc-MS-057	Multiple Sclerosis	Non-cancer	VUMC	<12h	68	M	NA	NA	NA	NA	validation	Vumc-MS-057-TR1536
+312	Vumc-MS-059	Multiple Sclerosis	Non-cancer	VUMC	<12h	30	M	NA	NA	NA	NA	validation	Vumc-MS-059-TR1538
+313	Vumc-MS-058	Multiple Sclerosis	Non-cancer	VUMC	<12h	52	M	NA	NA	NA	NA	validation	Vumc-MS-058-TR1537
+314	Vumc-MS-054	Multiple Sclerosis	Non-cancer	VUMC	<12h	45	F	NA	NA	NA	NA	validation	Vumc-MS-054-TR1447
+315	Vumc-MS-053	Multiple Sclerosis	Non-cancer	VUMC	<12h	64	F	NA	NA	NA	NA	validation	Vumc-MS-053-TR1534
+316	Vumc-MS-051	Multiple Sclerosis	Non-cancer	VUMC	<12h	32	F	NA	NA	NA	NA	validation	Vumc-MS-051-TR1532
+317	Vumc-MS-061	Multiple Sclerosis	Non-cancer	VUMC	<12h	52	F	NA	NA	NA	NA	validation	Vumc-MS-061-TR1587
+318	Vumc-MS-052	Multiple Sclerosis	Non-cancer	VUMC	<12h	49	F	NA	NA	NA	NA	validation	Vumc-MS-052-TR1533
+319	Vumc-MS-028	Multiple Sclerosis	Non-cancer	VUMC	<12h	52	F	NA	NA	NA	NA	validation	Vumc-MS-028-TR1469
+320	UMCU-NSAth-1-0127	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	64	M	N	NA	NA	evaluation	evaluation	UMCU-NSAth-1-0127-TR827
+321	UMCU-NSAth-1-0155	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	48	F	Y	NA	NA	training	training	UMCU-NSAth-1-0155-TR831
+322	UMCU-NSAth-1-0190	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	71	F	N	NA	NA	training	training	UMCU-NSAth-1-0190-TR832
+323	UMCU-NSAth-1-0151	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	63	F	N	NA	NA	training	training	UMCU-NSAth-1-0151-TR830
+324	UMCU-NSAth-1-0147	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	63	F	N	NA	NA	training	evaluation	UMCU-NSAth-1-0147-TR829
+325	UMCU-NSAth-1-0145	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	67	M	Y	NA	NA	NA	validation	UMCU-NSAth-1-0145-TR828
+326	UMCU-non-sign-athero-2-0657	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-2-0657-TR1986
+327	UMCU-non-sign-athero-4-1669	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1669-TR1987
+328	UMCU-non-sign-athero-4-1670	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1670-TR1988
+329	UMCU-non-sign-athero-4-1675	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1675-TR1989
+330	UMCU-non-sign-athero-4-1682	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1682-TR1990
+331	UMCU-non-sign-athero-4-1691	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1691-TR1990
+332	UMCU-non-sign-athero-4-1696	Non-significant atherosclerosis	Non-cancer	UMCU	<12h	NA	NA	NA	NA	NA	NA	validation	UMCU-non-sign-athero-4-1696-TR1992
+333	1	Pulmonary Hypertension	Non-cancer	VUMC	<12h	81	F	F	NA	NA	evaluation	training	Vumc-P-PH-001-001-TR1502
+334	7	Pulmonary Hypertension	Non-cancer	VUMC	<12h	69	F	F	NA	NA	validation	training	Vumc-P-PH-001-007-TR1395
+335	17	Pulmonary Hypertension	Non-cancer	VUMC	<12h	51	F	N	NA	NA	validation	evaluation	Vumc-P-PH-001-017-TR1507
+336	14	Pulmonary Hypertension	Non-cancer	VUMC	<12h	65	F	F	NA	NA	validation	training	Vumc-P-PH-001-014-TR1459
+337	35	Pulmonary Hypertension	Non-cancer	VUMC	<12h	66	F	N	NA	NA	validation	evaluation	Vumc-P-PH-001-035-TR1418
+338	37	Pulmonary Hypertension	Non-cancer	VUMC	<12h	62	F	F	NA	NA	training	training	Vumc-P-PH-001-037-TR1420
+339	20	Pulmonary Hypertension	Non-cancer	VUMC	<12h	71	F	F	NA	NA	training	evaluation	Vumc-P-PH-001-020-TR1509
+340	18	Pulmonary Hypertension	Non-cancer	VUMC	<12h	69	F	Y	NA	NA	training	training	Vumc-P-PH-001-018-TR1413
+341	12	Pulmonary Hypertension	Non-cancer	VUMC	<12h	63	M	F	NA	NA	training	training	Vumc-P-PH-001-012-TR1506
+342	34	Pulmonary Hypertension	Non-cancer	VUMC	<12h	58	M	Y	NA	NA	training	evaluation	Vumc-P-PH-001-034-TR1512
+343	23	Pulmonary Hypertension	Non-cancer	VUMC	<12h	75	M	N	NA	NA	training	evaluation	Vumc-P-PH-001-023-TR1407
+344	22	Pulmonary Hypertension	Non-cancer	VUMC	<12h	74	F	N	NA	NA	training	training	Vumc-P-PH-001-022-TR1511
+345	54	Pulmonary Hypertension	Non-cancer	VUMC	<12h	80	M	F	NA	NA	training	evaluation	Vumc-P-PH-001-054-TR1424
+346	11	Pulmonary Hypertension	Non-cancer	VUMC	<12h	63	M	F	NA	NA	training	training	Vumc-P-PH-001-011-TR1458
+347	3	Pulmonary Hypertension	Non-cancer	VUMC	<12h	72	M	F	NA	NA	training	evaluation	Vumc-P-PH-001-003-TR1392
+348	42	Pulmonary Hypertension	Non-cancer	VUMC	<12h	72	M	Y	NA	NA	training	evaluation	Vumc-P-PH-001-042-TR1423
+349	2	Pulmonary Hypertension	Non-cancer	VUMC	<12h	71	F	F	NA	NA	training	evaluation	Vumc-P-PH-001-002-TR1391
+350	9	Pulmonary Hypertension	Non-cancer	VUMC	<12h	69	F	F	NA	NA	training	evaluation	Vumc-P-PH-001-009-TR1397
+351	26	Pulmonary Hypertension	Non-cancer	VUMC	<12h	79	M	F	NA	NA	training	training	Vumc-P-PH-001-026-TR1408
+352	6	Pulmonary Hypertension	Non-cancer	VUMC	<12h	67	F	N	NA	NA	training	training	Vumc-P-PH-001-006-TR1457
+353	41	Pulmonary Hypertension	Non-cancer	VUMC	<12h	77	F	N	NA	NA	training	training	Vumc-P-PH-001-041-TR1422
+354	33	Pulmonary Hypertension	Non-cancer	VUMC	<12h	51	M	N	NA	NA	training	training	Vumc-P-PH-001-033-TR1417
+355	16	Pulmonary Hypertension	Non-cancer	VUMC	<12h	76	F	N	NA	NA	training	training	Vumc-P-PH-001-016-TR1404
+356	5	Pulmonary Hypertension	Non-cancer	VUMC	<12h	29	F	F	NA	NA	NA	validation	Vumc-P-PH-001-005-TR1503
+357	8	Pulmonary Hypertension	Non-cancer	VUMC	<12h	35	M	N	NA	NA	NA	validation	Vumc-P-PH-001-008-TR1504
+358	10	Pulmonary Hypertension	Non-cancer	VUMC	<12h	40	F	N	NA	NA	NA	validation	Vumc-P-PH-001-010-TR1505
+359	13	Pulmonary Hypertension	Non-cancer	VUMC	<12h	43	F	N	NA	NA	NA	validation	Vumc-P-PH-001-013-TR1400
+360	27	Pulmonary Hypertension	Non-cancer	VUMC	<12h	34	F	Y	NA	NA	NA	validation	Vumc-P-PH-001-027-TR1409
+361	28	Pulmonary Hypertension	Non-cancer	VUMC	<12h	17	M	N	NA	NA	NA	validation	Vumc-P-PH-001-028-TR1410
+362	29	Pulmonary Hypertension	Non-cancer	VUMC	<12h	39	F	NA	NA	NA	NA	validation	Vumc-P-PH-001-029-TR1434
+363	39	Pulmonary Hypertension	Non-cancer	VUMC	<12h	45	F	N	NA	NA	NA	validation	Vumc-P-PH-001-039-TR1421
+364	50	Pulmonary Hypertension	Non-cancer	VUMC	<12h	36	F	Y	NA	NA	NA	validation	Vumc-P-PH-001-050-TR1460
+365	53	Pulmonary Hypertension	Non-cancer	VUMC	<12h	24	F	N	NA	NA	NA	validation	Vumc-P-PH-001-053-TR1461
+366	P-PH-001-013	Pulmonary Hypertension	Non-cancer	VUMC	<12h	43	F	NA	NA	NA	NA	validation	P-PH-001-013-TR1400
+367	UMCU-2-0536-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	52	F	Y	NA	NA	evaluation	training	UMCU-2-0536-AP-unstable-TR945
+368	UMCU-2-0570-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	71	F	Y	NA	NA	evaluation	evaluation	UMCU-2-0570-AP-unstable-TR948
+369	UMCU-2-0566-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	63	F	N	NA	NA	validation	training	UMCU-2-0566-AP-unstable-TR947
+370	UMCU-2-0585-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	73	M	N	NA	NA	validation	training	UMCU-2-0585-AP-unstable-TR949
+371	UMCU-2-0540-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	65	M	N	NA	NA	training	evaluation	UMCU-2-0540-AP-unstable-TR946
+372	UMCU-2-0533-AP-unstable	Unstable Angina Pectoris	Non-cancer	UMCU	<12h	39	F	Y	NA	NA	NA	validation	UMCU-2-0533-AP-unstable-TR944
+373	UMCU-1-0024-AP-stable	Stable Angina Pectoris	Non-cancer	UMCU	<12h	55	M	Y	NA	NA	training	training	UMCU-1-0024-AP-stable-TR943
+374	UMCU-1-0006-AP-stable	Stable Angina Pectoris	Non-cancer	UMCU	<12h	70	M	N	NA	NA	training	evaluation	UMCU-1-0006-AP-stable-TR938
+375	UMCU-1-0009-AP-stable	Stable Angina Pectoris	Non-cancer	UMCU	<12h	64	M	N	NA	NA	NA	validation	UMCU-1-0009-AP-stable-TR942
+376	UMCU-1-0018-AP-stable	Stable Angina Pectoris	Non-cancer	UMCU	<12h	48	M	Y	NA	NA	training	training	UMCU-1-0018-AP-stable-TR942
+377	UMCU-1-0056-AP-stable	Stable Angina Pectoris	Non-cancer	UMCU	<12h	39	M	N	NA	NA	NA	validation	UMCU-1-0056-AP-stable-TR936
+378	Vumc-NSCLC-152-1	NSCLC	NSCLC	VUMC	<12h	55	M	NA	N	NA	evaluation	training	Vumc-NSCLC-152-TR604
+379	Vumc-NSCLC-VU028	NSCLC	NSCLC	VUMC	<12h	55	F	F	Y	Vinorelbine	evaluation	validation	Vumc-NSCLC-VU028-TR632
+380	Vumc-NSCLC-VU028-1	NSCLC	NSCLC	VUMC	<12h	55	F	F	Y	Vinorelbine	evaluation	validation	Vumc-LGG-VU028-1-TR633
+381	Vumc-NSCLC-236	NSCLC	NSCLC	VUMC	<12h	78	M	N	Y	NA	evaluation	training	Vumc-NSCLC-236-TR939
+382	Vumc-NSCLC-105	NSCLC	NSCLC	VUMC	<12h	44	M	N	Y	NA	evaluation	evaluation	Vumc-NSCLC-105-TR950
+383	Vumc-NSCLC-241	NSCLC	NSCLC	VUMC	<12h	39	F	N	Y	NA	evaluation	evaluation	Vumc-NSCLC-241-TR1000
+384	Vumc-NSCLC-166	NSCLC	NSCLC	VUMC	<12h	65	F	F	Y	NA	evaluation	evaluation	Vumc-NSCLC-166-TR960
+385	Vumc-NSCLC-163	NSCLC	NSCLC	VUMC	<12h	42	M	NA	Y	NA	evaluation	evaluation	Vumc-NSCLC-163-TR959
+386	Vumc-NSCLC-127-1	NSCLC	NSCLC	VUMC	<12h	61	M	F	Y	Crizotinib	evaluation	training	Vumc-NSCLC-127
+387	Vumc-NSCLC-186	NSCLC	NSCLC	VUMC	<12h	61	F	N	Y	NA	evaluation	evaluation	Vumc-NSCLC-186-TR974
+388	Vumc-NSCLC-195	NSCLC	NSCLC	VUMC	<12h	79	F	N	Y	NA	evaluation	training	Vumc-NSCLC-195-TR877
+389	Vumc-NSCLC-174	NSCLC	NSCLC	VUMC	<12h	49	F	Y	Y	Crizotinib	evaluation	training	Vumc-NSCLC-174-TR669
+390	Vumc-NSCLC-187	NSCLC	NSCLC	VUMC	<12h	73	F	N	Y	NA	evaluation	validation	Vumc-NSCLC-187-TR975
+391	Vumc-NSCLC-VU079	NSCLC	NSCLC	VUMC	<12h	55	M	N	Y	Ceritinib	evaluation	training	Vumc-NSCLC-VU079-TR631
+392	Vumc-NSCLC-267	NSCLC	NSCLC	VUMC	<12h	72	M	N	Y	NA	evaluation	training	Vumc-NSCLC-267-TR1020
+393	Vumc-NSCLC-150	NSCLC	NSCLC	VUMC	<12h	39	M	N	Y	NA	evaluation	evaluation	Vumc-NSCLC-150
+394	Vumc-NSCLC-244	NSCLC	NSCLC	VUMC	<12h	84	F	N	Y	NA	evaluation	training	Vumc-NSCLC-244-TR1003
+395	Vumc-NSCLC-137	NSCLC	NSCLC	VUMC	<12h	74	M	N	Y	NA	evaluation	validation	Vumc-NSCLC-137
+396	Vumc-NSCLC-VU106-1	NSCLC	NSCLC	VUMC	<12h	67	M	N	Y	NA	evaluation	validation	Vumc-LGG-VU106-1-TR605
+397	Vumc-NSCLC-131	NSCLC	NSCLC	VUMC	<12h	46	F	F	Y	NA	evaluation	evaluation	Vumc-NSCLC-131-TR709
+398	Vumc-NSCLC-027	NSCLC	NSCLC	VUMC	<12h	52	M	Y	Y	NA	validation	validation	Vumc-NSCLC-027
+399	Vumc-NSCLC-054	NSCLC	NSCLC	VUMC	<12h	61	F	N	Y	Vemurafenib	validation	training	Vumc-NSCLC-054
+400	Vumc-NSCLC-068	NSCLC	NSCLC	VUMC	<12h	54	M	F	Y	Crizotinib	validation	training	Vumc-NSCLC-068
+401	Vumc-NSCLC-070	NSCLC	NSCLC	VUMC	<12h	68	M	F	Y	Dabrafenib + Trametinib	validation	evaluation	Vumc-NSCLC-070
+402	Vumc-NSCLC-080	NSCLC	NSCLC	VUMC	<12h	60	F	Y	Y	Dabrafenib	validation	training	Vumc-NSCLC-080
+403	Vumc-NSCLC-081	NSCLC	NSCLC	VUMC	<12h	43	M	N	Y	Ceritinib	validation	evaluation	Vumc-NSCLC-081
+404	Vumc-NSCLC-083	NSCLC	NSCLC	VUMC	<12h	63	M	Y	Y	Crizotinib	validation	evaluation	Vumc-NSCLC-083
+405	Vumc-NSCLC-086	NSCLC	NSCLC	VUMC	<12h	62	M	N	Y	Crizotinib	validation	training	Vumc-NSCLC-086
+406	Vumc-NSCLC-088	NSCLC	NSCLC	VUMC	<12h	62	M	F	Y	NA	validation	training	Vumc-NSCLC-088
+407	Vumc-NSCLC-089	NSCLC	NSCLC	VUMC	<12h	73	F	N	Y	NA	validation	validation	Vumc-NSCLC-089
+408	Vumc-NSCLC-092	NSCLC	NSCLC	VUMC	<12h	81	F	Y	Y	NA	validation	training	Vumc-NSCLC-092
+409	Vumc-NSCLC-093	NSCLC	NSCLC	VUMC	<12h	63	M	F	Y	NA	validation	evaluation	Vumc-NSCLC-093
+410	Vumc-NSCLC-094	NSCLC	NSCLC	VUMC	<12h	49	M	NA	Y	NA	validation	validation	Vumc-NSCLC-094
+411	Vumc-NSCLC-103	NSCLC	NSCLC	VUMC	<12h	65	M	Y	Y	Crizotinib	validation	training	Vumc-NSCLC-103
+412	Vumc-NSCLC-113	NSCLC	NSCLC	VUMC	<12h	55	F	N	Y	NA	validation	training	Vumc-NSCLC-113
+413	Vumc-NSCLC-114	NSCLC	NSCLC	VUMC	<12h	47	M	N	Y	Pemetrexed	validation	validation	Vumc-NSCLC-114
+414	Vumc-NSCLC-117	NSCLC	NSCLC	VUMC	<12h	67	M	F	Y	NA	validation	training	Vumc-NSCLC-117
+415	Vumc-NSCLC-118	NSCLC	NSCLC	VUMC	<12h	68	F	N	Y	NA	validation	training	Vumc-NSCLC-118
+416	Vumc-NSCLC-120	NSCLC	NSCLC	VUMC	<12h	53	F	N	Y	NA	validation	evaluation	Vumc-NSCLC-120
+417	Vumc-NSCLC-121	NSCLC	NSCLC	VUMC	<12h	60	M	NA	Y	Crizotinib	validation	training	Vumc-NSCLC-121
+418	Vumc-NSCLC-122	NSCLC	NSCLC	VUMC	<12h	83	F	N	Y	NA	validation	training	Vumc-NSCLC-122
+419	Vumc-NSCLC-123	NSCLC	NSCLC	VUMC	<12h	61	F	N	NA	NA	validation	evaluation	Vumc-NSCLC-123
+420	Vumc-NSCLC-124	NSCLC	NSCLC	VUMC	<12h	55	F	N	Y	NA	validation	evaluation	Vumc-NSCLC-124
+421	Vumc-NSCLC-125	NSCLC	NSCLC	VUMC	<12h	56	F	N	Y	Crizotinib	validation	validation	Vumc-NSCLC-125
+422	Vumc-NSCLC-128	NSCLC	NSCLC	VUMC	<12h	66	M	N	Y	Crizotinib	validation	evaluation	Vumc-NSCLC-128
+423	Vumc-NSCLC-129	NSCLC	NSCLC	VUMC	<12h	59	M	F	Y	Gefitinib	validation	validation	Vumc-NSCLC-129
+424	Vumc-NSCLC-132-1	NSCLC	NSCLC	VUMC	<12h	53	M	Y	Y	Crizotinib	validation	evaluation	Vumc-NSCLC-132-1
+425	Vumc-NSCLC-133	NSCLC	NSCLC	VUMC	<12h	81	F	N	Y	Crizotinib	validation	validation	Vumc-NSCLC-133
+426	Vumc-NSCLC-138	NSCLC	NSCLC	VUMC	<12h	59	F	N	Y	NA	validation	training	Vumc-NSCLC-138
+427	Vumc-NSCLC-139	NSCLC	NSCLC	VUMC	<12h	47	M	N	Y	NA	validation	training	Vumc-NSCLC-139
+428	Vumc-NSCLC-141	NSCLC	NSCLC	VUMC	<12h	49	M	Y	Y	NA	validation	evaluation	Vumc-NSCLC-141
+429	Vumc-NSCLC-142	NSCLC	NSCLC	VUMC	<12h	43	M	N	Y	NA	validation	validation	Vumc-NSCLC-142
+430	Vumc-NSCLC-143	NSCLC	NSCLC	VUMC	<12h	62	F	F	Y	Crizotinib	validation	validation	Vumc-NSCLC-143
+431	Vumc-NSCLC-145	NSCLC	NSCLC	VUMC	<12h	71	F	F	Y	NA	validation	validation	Vumc-NSCLC-145
+432	Vumc-NSCLC-147	NSCLC	NSCLC	VUMC	<12h	61	F	Y	Y	NA	validation	evaluation	Vumc-NSCLC-147
+433	Vumc-NSCLC-154	NSCLC	NSCLC	VUMC	<12h	66	M	Y	Y	Crizotinib	validation	evaluation	Vumc-NSCLC-154
+434	Vumc-NSCLC-155	NSCLC	NSCLC	VUMC	<12h	64	M	F	Y	Crizotinib	validation	validation	Vumc-NSCLC-155
+435	Vumc-NSCLC-49	NSCLC	NSCLC	VUMC	<12h	50	F	NA	Y	NA	validation	training	Vumc-NSCLC-49
+436	Vumc-NSCLC-57	NSCLC	NSCLC	VUMC	<12h	67	M	NA	Y	Sorafenib + Metformin	validation	training	Vumc-NSCLC-57
+437	Vumc-NSCLC-59	NSCLC	NSCLC	VUMC	<12h	54	M	Y	Y	Sorafenib + Metformin	validation	evaluation	Vumc-NSCLC-59
+438	Vumc-NSCLC-66	NSCLC	NSCLC	VUMC	<12h	49	F	N	Y	Sorafenib + Metformin	validation	validation	Vumc-NSCLC-66
+439	Vumc-NSCLC-69	NSCLC	NSCLC	VUMC	<12h	56	F	Y	Y	Sorafenib	validation	training	Vumc-NSCLC-69
+440	Vumc-NSCLC-052	NSCLC	NSCLC	VUMC	<12h	44	M	Y	Y	Sorafenib + Metformin	validation	training	Vumc-NSCLC-052-TR460
+441	Vumc-NSCLC-071	NSCLC	NSCLC	VUMC	<12h	50	F	N	Y	Sorafenib + Metformin	validation	training	Vumc-NSCLC-071-TR486
+442	Vumc-NSCLC-107	NSCLC	NSCLC	VUMC	<12h	66	M	NA	Y	NA	validation	evaluation	Vumc-NSCLC-107-TR487
+443	Vumc-NSCLC-151	NSCLC	NSCLC	VUMC	<12h	66	F	NA	Y	Vemurafenib	validation	training	Vumc-NSCLC-151-TR463
+444	Vumc-NSCLC-VU146	NSCLC	NSCLC	VUMC	<12h	53	F	F	Y	Dabrafenib	validation	training	Vumc-NSCLC-VU146-TR374
+445	Vumc-NSCLC-106	NSCLC	NSCLC	VUMC	<12h	66	M	N	Y	Crizotinib	validation	training	Vumc-NSCLC-106-TR705
+446	Vumc-NSCLC-115	NSCLC	NSCLC	VUMC	<12h	83	F	N	Y	NA	validation	training	Vumc-NSCLC-115-TR706
+447	Vumc-NSCLC-160	NSCLC	NSCLC	VUMC	<12h	54	F	Y	Y	Crizotinib	validation	training	Vumc-NSCLC-160-TR690
+448	Vumc-NSCLC-170	NSCLC	NSCLC	VUMC	<12h	65	F	F	Y	Vemurafenib	validation	validation	Vumc-NSCLC-170-TR666
+449	Vumc-NSCLC-173	NSCLC	NSCLC	VUMC	<12h	66	F	NA	Y	Vemurafenib	validation	validation	Vumc-NSCLC-173-TR668
+450	Vumc-NSCLC-188	NSCLC	NSCLC	VUMC	<12h	68	F	N	Y	Dabrafenib + Trametinib	validation	validation	Vumc-NSCLC-188-TR712
+451	Vumc-NSCLC-189	NSCLC	NSCLC	VUMC	<12h	73	M	NA	Y	Cisplatin + Pemetrexed	validation	training	Vumc-NSCLC-189-TR713
+452	Vumc-NSCLC-165	NSCLC	NSCLC	VUMC	<12h	62	F	F	Y	Dabrafenib + Trametinib	validation	evaluation	Vumc-NSCLC-165-TR692
+453	Vumc-NSCLC-167	NSCLC	NSCLC	VUMC	<12h	55	M	NA	N	NA	validation	evaluation	Vumc-NSCLC-167-TR693
+454	Vumc-NSCLC-168	NSCLC	NSCLC	VUMC	<12h	56	F	F	Y	NA	validation	validation	Vumc-NSCLC-168-TR694
+455	Vumc-NSCLC-202	NSCLC	NSCLC	VUMC	<12h	64	M	NA	Y	NA	validation	validation	Vumc-NSCLC-202-TR900
+456	Vumc-NSCLC-205	NSCLC	NSCLC	VUMC	<12h	88	M	Y	Y	Dabrafenib	validation	evaluation	Vumc-NSCLC-205-TR870
+457	Vumc-NSCLC-211	NSCLC	NSCLC	VUMC	<12h	27	M	N	Y	Cisplatin + Pemetrexed	validation	training	Vumc-NSCLC-211-TR903
+458	Vumc-NSCLC-213	NSCLC	NSCLC	VUMC	<12h	72	M	N	Y	NA	validation	validation	Vumc-NSCLC-213-TR872
+459	Vumc-NSCLC-214	NSCLC	NSCLC	VUMC	<12h	62	F	F	Y	Dabrafenib	validation	evaluation	Vumc-NSCLC-214-TR873
+460	Vumc-NSCLC-216	NSCLC	NSCLC	VUMC	<12h	68	M	Y	N	NA	validation	validation	Vumc-NSCLC-216-TR874
+461	Vumc-NSCLC-230	NSCLC	NSCLC	VUMC	<12h	71	M	N	Y	NA	validation	evaluation	Vumc-NSCLC-230-TR882
+462	Vumc-NSCLC-130	NSCLC	NSCLC	VUMC	<12h	40	M	N	Y	NA	validation	training	Vumc-NSCLC-130-TR952
+463	Vumc-NSCLC-148	NSCLC	NSCLC	VUMC	<12h	53	F	F	Y	NA	validation	validation	Vumc-NSCLC-148-TR953
+464	Vumc-NSCLC-149	NSCLC	NSCLC	VUMC	<12h	73	F	N	Y	NA	validation	evaluation	Vumc-NSCLC-149-TR954
+465	Vumc-NSCLC-157	NSCLC	NSCLC	VUMC	<12h	48	M	NA	Y	NA	validation	evaluation	Vumc-NSCLC-157-TR955
+466	Vumc-NSCLC-158	NSCLC	NSCLC	VUMC	<12h	55	M	N	Y	NA	validation	validation	Vumc-NSCLC-158-TR956
+467	Vumc-NSCLC-161	NSCLC	NSCLC	VUMC	<12h	65	M	NA	Y	NA	validation	validation	Vumc-NSCLC-161-TR958
+468	Vumc-NSCLC-169	NSCLC	NSCLC	VUMC	<12h	64	F	N	Y	NA	validation	validation	Vumc-NSCLC-169-TR961
+469	Vumc-NSCLC-199	NSCLC	NSCLC	VUMC	<12h	39	F	N	Y	NA	validation	training	Vumc-NSCLC-199-TR977
+470	Vumc-NSCLC-201	NSCLC	NSCLC	VUMC	<12h	63	M	F	Y	NA	validation	training	Vumc-NSCLC-201-TR979
+471	Vumc-NSCLC-207	NSCLC	NSCLC	VUMC	<12h	63	M	N	Y	NA	validation	validation	Vumc-NSCLC-207-TR981
+472	Vumc-NSCLC-210	NSCLC	NSCLC	VUMC	<12h	78	M	F	Y	NA	validation	training	Vumc-NSCLC-210-TR982
+473	Vumc-NSCLC-218	NSCLC	NSCLC	VUMC	<12h	76	F	N	Y	NA	validation	training	Vumc-NSCLC-218-TR983
+474	Vumc-NSCLC-223	NSCLC	NSCLC	VUMC	<12h	59	F	Y	Y	Carboplatin + Gemcitabine	validation	training	Vumc-NSCLC-223-TR996
+475	Vumc-NSCLC-240	NSCLC	NSCLC	VUMC	<12h	72	M	N	Y	NA	validation	evaluation	Vumc-NSCLC-240-TR999
+476	Vumc-NSCLC-250	NSCLC	NSCLC	VUMC	<12h	74	F	F	Y	Dabrafenib + Trametinib	validation	training	Vumc-NSCLC-250-TR1005
+477	Vumc-NSCLC-255	NSCLC	NSCLC	VUMC	<12h	71	F	F	Y	NA	validation	evaluation	Vumc-NSCLC-255-TR1006
+478	Vumc-NSCLC-265	NSCLC	NSCLC	VUMC	<12h	68	F	N	Y	Dabrafenib + Trametinib	validation	validation	Vumc-NSCLC-265-TR1019
+479	Vumc-NSCLC-269	NSCLC	NSCLC	VUMC	<12h	53	F	F	Y	NA	validation	training	Vumc-NSCLC-269-TR1021
+480	Vumc-NSCLC-278	NSCLC	NSCLC	VUMC	<12h	69	M	NA	Y	NA	validation	validation	Vumc-NSCLC-278-TR1048
+481	Vumc-NSCLC-282	NSCLC	NSCLC	VUMC	<12h	73	M	NA	Y	Cisplatin + Pemetrexed	validation	training	Vumc-NSCLC-282-TR1031
+482	Vumc-NSCLC-296	NSCLC	NSCLC	VUMC	<12h	68	F	N	Y	Dabrafenib + Trametinib	validation	validation	Vumc-NSCLC-296-TR1032
+483	Vumc-NSCLC-348	NSCLC	NSCLC	VUMC	<12h	69	M	N	Y	Nivolumab	validation	validation	Vumc-NSCLC-348-TR1035
+484	Vumc-NSCLC-361	NSCLC	NSCLC	VUMC	<12h	47	M	F	Y	Nivolumab	validation	training	Vumc-NSCLC-361-TR1036
+485	Vumc-NSCLC-574	NSCLC	NSCLC	VUMC	<12h	75	M	NA	Y	Nivolumab	validation	validation	Vumc-NSCLC-574-TR1307
+486	Vumc-NSCLC-470	NSCLC	NSCLC	VUMC	<12h	75	M	NA	Y	Nivolumab	validation	validation	Vumc-NSCLC-470-TR1275
+487	Vumc-NSCLC-313	NSCLC	NSCLC	VUMC	<12h	40	M	Y	Y	Nivolumab	validation	training	Vumc-NSCLC-313-TR1243
+488	Vumc-NSCLC-198	NSCLC	NSCLC	VUMC	<12h	63	F	F	Y	Erlotinib	training	validation	Vumc-NSCLC-198-TR976
+489	Vumc-NSCLC-288	NSCLC	NSCLC	VUMC	<12h	53	M	Y	Y	NA	training	validation	Vumc-NSCLC-288-TR1268
+490	Vumc-NSCLC-159	NSCLC	NSCLC	VUMC	<12h	55	F	N	Y	NA	training	validation	Vumc-NSCLC-159-TR957
+491	Vumc-NSCLC-221	NSCLC	NSCLC	VUMC	<12h	61	F	N	Y	NA	training	evaluation	Vumc-NSCLC-221-TR984
+492	Vumc-NSCLC-243	NSCLC	NSCLC	VUMC	<12h	59	F	N	Y	NA	training	validation	Vumc-NSCLC-243-TR1002
+493	Vumc-NSCLC-259	NSCLC	NSCLC	VUMC	<12h	63	M	F	Y	NA	training	training	Vumc-NSCLC-259-TR1007
+494	Vumc-NSCLC-258	NSCLC	NSCLC	VUMC	<12h	61	M	Y	Y	Nivolumab	training	training	Vumc-NSCLC-258-TR1238
+495	Vumc-NSCLC-140	NSCLC	NSCLC	VUMC	<12h	53	M	Y	Y	Crizotinib	training	validation	Vumc-NSCLC-140
+496	Vumc-NSCLC-239	NSCLC	NSCLC	VUMC	<12h	63	M	N	Y	Crizotinib	training	evaluation	Vumc-NSCLC-239-TR940
+497	Vumc-NSCLC-208	NSCLC	NSCLC	VUMC	<12h	55	M	Y	Y	NA	training	training	Vumc-NSCLC-208-TR902
+498	Vumc-NSCLC-225	NSCLC	NSCLC	VUMC	<12h	48	M	N	Y	Pemetrexed	training	validation	Vumc-NSCLC-225-TR905
+499	Vumc-NSCLC-226	NSCLC	NSCLC	VUMC	<12h	42	M	NA	Y	NA	training	evaluation	Vumc-NSCLC-226-TR997
+500	Vumc-NSCLC-134	NSCLC	NSCLC	VUMC	<12h	63	M	Y	Y	NA	training	training	Vumc-NSCLC-134
+501	Vumc-NSCLC-242	NSCLC	NSCLC	VUMC	<12h	61	F	N	Y	NA	training	validation	Vumc-NSCLC-242-TR1001
+502	Vumc-NSCLC-217	NSCLC	NSCLC	VUMC	<12h	64	M	N	Y	NA	training	validation	Vumc-NSCLC-217-TR904
+503	Vumc-NSCLC-231	NSCLC	NSCLC	VUMC	<12h	54	M	NA	N	NA	training	evaluation	Vumc-NSCLC-231-TR906
+504	Vumc-NSCLC-229	NSCLC	NSCLC	VUMC	<12h	65	F	F	Y	NA	training	evaluation	Vumc-NSCLC-229-TR881
+505	Vumc-NSCLC-394	NSCLC	NSCLC	VUMC	<12h	53	M	F	Y	Nivolumab	training	validation	Vumc-NSCLC-394-TR1273
+506	Vumc-NSCLC-063	NSCLC	NSCLC	VUMC	<12h	61	F	Y	Y	Crizotinib	training	training	Vumc-NSCLC-063
+507	Vumc-NSCLC-191	NSCLC	NSCLC	VUMC	<12h	56	F	N	Y	NA	training	training	Vumc-NSCLC-191-TR898
+508	Vumc-NSCLC-184	NSCLC	NSCLC	VUMC	<12h	62	F	F	Y	Dabrafenib + Trametinib	training	training	Vumc-NSCLC-184-TR710
+509	Vumc-NSCLC-200	NSCLC	NSCLC	VUMC	<12h	59	F	N	Y	NA	training	training	Vumc-NSCLC-200-TR978
+510	Vumc-NSCLC-461	NSCLC	NSCLC	VUMC	<12h	39	M	Y	Y	Nivolumab	training	training	Vumc-NSCLC-461-TR1303
+511	Vumc-NSCLC-358	NSCLC	NSCLC	VUMC	<12h	56	F	Y	N	Nivolumab	training	validation	Vumc-NSCLC-358-TR1310
+512	Vumc-NSCLC-144	NSCLC	NSCLC	VUMC	<12h	43	M	N	Y	NA	training	training	Vumc-NSCLC-144
+513	Vumc-NSCLC-224	NSCLC	NSCLC	VUMC	<12h	73	M	NA	Y	Cisplatin + Pemetrexed	training	evaluation	Vumc-NSCLC-224-TR879
+514	Vumc-NSCLC-183	NSCLC	NSCLC	VUMC	<12h	47	F	F	Y	NA	training	validation	Vumc-NSCLC-183-TR671
+515	Vumc-NSCLC-263	NSCLC	NSCLC	VUMC	<12h	56	F	Y	N	Nivolumab	training	evaluation	Vumc-NSCLC-263-TR1239
+516	Vumc-NSCLC-164	NSCLC	NSCLC	VUMC	<12h	48	M	N	Y	NA	training	training	Vumc-NSCLC-164-TR691
+517	Vumc-NSCLC-194	NSCLC	NSCLC	VUMC	<12h	81	F	N	Y	NA	training	validation	Vumc-NSCLC-194-TR899
+518	Vumc-NSCLC-513	NSCLC	NSCLC	VUMC	<12h	53	M	F	Y	Nivolumab	training	evaluation	Vumc-NSCLC-513-TR1305
+519	Vumc-NSCLC-109-1	NSCLC	NSCLC	VUMC	<12h	74	F	N	Y	NA	training	evaluation	Vumc-NSCLC-109-1
+520	Vumc-NSCLC-257	NSCLC	NSCLC	VUMC	<12h	75	M	Y	Y	Nivolumab	training	validation	Vumc-NSCLC-257-TR1234
+521	Vumc-NSCLC-209	NSCLC	NSCLC	VUMC	<12h	79	M	N	Y	NA	training	validation	Vumc-NSCLC-209-TR871
+522	Vumc-NSCLC-232	NSCLC	NSCLC	VUMC	<12h	63	F	F	Y	Erlotinib	training	evaluation	Vumc-NSCLC-232-TR998
+523	Vumc-NSCLC-185	NSCLC	NSCLC	VUMC	<12h	54	F	Y	Y	Crizotinib	training	validation	Vumc-NSCLC-185-TR711
+524	Vumc-NSCLC-179	NSCLC	NSCLC	VUMC	<12h	67	M	Y	Y	NA	training	validation	Vumc-NSCLC-179-TR670
+525	Vumc-NSCLC-171	NSCLC	NSCLC	VUMC	<12h	63	F	F	Y	Ceritinib	training	evaluation	Vumc-NSCLC-171-TR962
+526	Vumc-NSCLC-175	NSCLC	NSCLC	VUMC	<12h	44	M	N	Y	NA	training	validation	MGH-NSCLC-175-TR707
+527	Vumc-NSCLC-204	NSCLC	NSCLC	VUMC	<12h	39	M	N	Y	NA	training	evaluation	Vumc-NSCLC-204-TR901
+528	Vumc-NSCLC-219	NSCLC	NSCLC	VUMC	<12h	54	F	Y	Y	NA	training	training	Vumc-NSCLC-219-TR916
+529	Vumc-NSCLC-203	NSCLC	NSCLC	VUMC	<12h	61	F	N	Y	NA	training	validation	Vumc-NSCLC-203-TR980
+530	Vumc-NSCLC-260	NSCLC	NSCLC	VUMC	<12h	78	M	N	Y	NA	training	training	Vumc-NSCLC-260-TR1008
+531	Vumc-NSCLC-181	NSCLC	NSCLC	VUMC	<12h	57	F	F	Y	NA	training	validation	Vumc-NSCLC-181-TR876
+532	Vumc-NSCLC-172	NSCLC	NSCLC	VUMC	<12h	54	F	F	Y	NA	training	training	Vumc-NSCLC-172-TR667
+533	Vumc-NSCLC-084	NSCLC	NSCLC	VUMC	<12h	61	F	Y	Y	CLDK-2201	training	training	Vumc-NSCLC-084
+534	Vumc-NSCLC-298	NSCLC	NSCLC	VUMC	<12h	74	F	F	Y	Dabrafenib + Trametinib	training	evaluation	Vumc-NSCLC-298-TR1033
+535	Vumc-NSCLC-300	NSCLC	NSCLC	VUMC	<12h	56	F	F	Y	NA	training	validation	Vumc-NSCLC-300-TR1034
+536	Vumc-NSCLC-317	NSCLC	NSCLC	VUMC	<12h	78	M	NA	Y	Nivolumab	training	evaluation	Vumc-NSCLC-317-TR1244
+537	MGH-NSCLC-L-09	NSCLC	NSCLC	MGH	>12h	32	M	NA	Y	NA	NA	validation	MGH-NSCLC-L-09
+538	MGH-NSCLC-L-42	NSCLC	NSCLC	MGH	>12h	58	M	NA	Y	NA	NA	validation	MGH-NSCLC-L-42
+539	MGH-NSCLC-L-47	NSCLC	NSCLC	MGH	>12h	82	F	NA	Y	NA	NA	validation	MGH-NSCLC-L-47
+540	MGH-NSCLC-L-72	NSCLC	NSCLC	MGH	>12h	74	F	NA	Y	NA	NA	validation	MGH-NSCLC-L-72
+541	MGH-NSCLC-L-74	NSCLC	NSCLC	MGH	>12h	36	M	N	Y	NA	NA	validation	MGH-NSCLC-L-74
+542	MGH-NSCLC-L-89	NSCLC	NSCLC	MGH	>12h	33	M	NA	Y	NA	NA	validation	MGH-NSCLC-L-89
+543	MGH-NSCLC-L-92	NSCLC	NSCLC	MGH	>12h	63	M	NA	Y	NA	NA	validation	MGH-NSCLC-L-92
+544	MGH-NSCLC-L-96	NSCLC	NSCLC	MGH	>12h	77	F	NA	Y	NA	NA	validation	MGH-NSCLC-L-96
+545	MGH-NSCLC-L01	NSCLC	NSCLC	MGH	>12h	37	F	NA	Y	NA	NA	validation	MGH-NSCLC-L01-TR458
+546	MGH-NSCLC-L03	NSCLC	NSCLC	MGH	>12h	69	M	NA	Y	NA	NA	validation	MGH-NSCLC-L03-TR488
+547	MGH-NSCLC-L07	NSCLC	NSCLC	MGH	>12h	67	F	NA	Y	NA	NA	validation	MGH-NSCLC-L07-TR459
+548	MGH-NSCLC-L100	NSCLC	NSCLC	MGH	>12h	73	M	NA	Y	NA	NA	validation	MGH-NSCLC-L100-TR526
+549	MGH-NSCLC-L114	NSCLC	NSCLC	MGH	>12h	48	F	NA	Y	NA	NA	validation	MGH-NSCLC-L114-TR527
+550	MGH-NSCLC-L11	NSCLC	NSCLC	MGH	>12h	54	M	NA	Y	NA	NA	validation	MGH-NSCLC-L11-TR477
+551	MGH-NSCLC-L12	NSCLC	NSCLC	MGH	>12h	55	F	NA	Y	NA	NA	validation	MGH-NSCLC-L12-TR478
+552	MGH-NSCLC-L18	NSCLC	NSCLC	MGH	>12h	55	M	NA	Y	NA	NA	validation	MGH-NSCLC-L18-TR479
+553	MGH-NSCLC-L19	NSCLC	NSCLC	MGH	>12h	68	F	NA	Y	NA	NA	validation	MGH-NSCLC-L19-TR461
+554	MGH-NSCLC-L20	NSCLC	NSCLC	MGH	>12h	68	F	NA	Y	NA	NA	validation	MGH-NSCLC-L20-TR500
+555	MGH-NSCLC-L22	NSCLC	NSCLC	MGH	>12h	62	M	NA	Y	NA	NA	validation	MGH-NSCLC-L22-TR462
+556	MGH-NSCLC-L23	NSCLC	NSCLC	MGH	>12h	49	F	NA	Y	NA	NA	validation	MGH-NSCLC-L23-TR524
+557	MGH-NSCLC-L25	NSCLC	NSCLC	MGH	>12h	67	M	NA	Y	NA	NA	validation	MGH-NSCLC-L25-TR480
+558	MGH-NSCLC-L32	NSCLC	NSCLC	MGH	>12h	82	F	NA	Y	NA	NA	validation	MGH-NSCLC-L32-TR501
+559	MGH-NSCLC-L36	NSCLC	NSCLC	MGH	>12h	62	F	NA	Y	NA	NA	validation	MGH-NSCLC-L36-TR502
+560	MGH-NSCLC-L37	NSCLC	NSCLC	MGH	>12h	53	F	NA	Y	NA	NA	validation	MGH-NSCLC-L37-TR503
+561	MGH-NSCLC-L39	NSCLC	NSCLC	MGH	>12h	60	M	NA	Y	NA	NA	validation	MGH-NSCLC-L39-TR519
+562	MGH-NSCLC-L40	NSCLC	NSCLC	MGH	>12h	64	F	NA	Y	NA	NA	validation	MGH-NSCLC-L40-TR520
+563	MGH-NSCLC-L44	NSCLC	NSCLC	MGH	>12h	50	F	NA	Y	NA	NA	validation	MGH-NSCLC-L44-TR504
+564	MGH-NSCLC-L51	NSCLC	NSCLC	MGH	>12h	64	F	NA	Y	NA	NA	validation	MGH-NSCLC-L51-TR521
+565	MGH-NSCLC-L56	NSCLC	NSCLC	MGH	>12h	64	F	NA	Y	NA	NA	validation	MGH-NSCLC-L56-TR481
+566	MGH-NSCLC-L58	NSCLC	NSCLC	MGH	>12h	68	F	NA	Y	NA	NA	validation	MGH-NSCLC-L58-TR525
+567	MGH-NSCLC-L65	NSCLC	NSCLC	MGH	>12h	78	M	NA	Y	NA	NA	validation	MGH-NSCLC-L65-TR523
+568	MGH-NSCLC-L99	NSCLC	NSCLC	MGH	>12h	86	M	NA	Y	NA	NA	validation	MGH-NSCLC-L99-TR464
+569	Pang-NSCLC-B295-2	NSCLC	NSCLC	HGTP	<12h	72	M	N	Y	NA	NA	validation	Pang-NSCLC-B295-2-TR454
+570	Pang-NSCLC-B739-1	NSCLC	NSCLC	HGTP	<12h	36	F	Y	Y	NA	NA	validation	Pang-NSCLC-B739-1-TR455
+571	MGH-NSCLC-L10	NSCLC	NSCLC	MGH	>12h	65	F	NA	Y	NA	NA	validation	MGH-NSCLC-L10-TR606
+572	MGH-NSCLC-L33	NSCLC	NSCLC	MGH	>12h	64	M	NA	Y	NA	NA	validation	MGH-NSCLC-L33-TR600
+573	MGH-NSCLC-L41	NSCLC	NSCLC	MGH	>12h	61	M	NA	Y	NA	NA	validation	MGH-NSCLC-L41-TR616
+574	MGH-NSCLC-L48	NSCLC	NSCLC	MGH	>12h	56	M	NA	Y	NA	NA	validation	MGH-NSCLC-L48-TR577
+575	MGH-NSCLC-L73	NSCLC	NSCLC	MGH	>12h	70	M	NA	Y	NA	NA	validation	MGH-NSCLC-L73-TR578
+576	MGH-NSCLC-L88	NSCLC	NSCLC	MGH	>12h	59	M	NA	Y	NA	NA	validation	MGH-NSCLC-L88-TR601
+577	MGH-NSCLC-L120	NSCLC	NSCLC	MGH	>12h	58	M	NA	Y	NA	NA	validation	MGH-NSCLC-L120-TR714
+578	MGH-NSCLC-L122	NSCLC	NSCLC	MGH	>12h	70	F	NA	Y	NA	NA	validation	MGH-NSCLC-L122-TR715
+579	MGH-NSCLC-L125	NSCLC	NSCLC	MGH	>12h	42	F	NA	Y	NA	NA	validation	MGH-NSCLC-L125-TR716
+580	MGH-NSCLC-L126	NSCLC	NSCLC	MGH	>12h	55	F	NA	Y	NA	NA	validation	MGH-NSCLC-L126-TR717
+581	MGH-NSCLC-L127	NSCLC	NSCLC	MGH	>12h	74	M	NA	Y	NA	NA	validation	MGH-NSCLC-L127-TR718
+582	MGH-NSCLC-L128	NSCLC	NSCLC	MGH	>12h	63	F	NA	Y	NA	NA	validation	MGH-NSCLC-L128-TR719
+583	MGH-NSCLC-L78	NSCLC	NSCLC	MGH	>12h	54	F	NA	Y	NA	NA	validation	MGH-NSCLC-L78-TR695
+584	NKI-NSCLC-107-081	NSCLC	NSCLC	NKI	<12h	54	M	F	Y	NA	NA	validation	NKI-NSCLC-107-081-TR728
+585	NKI-NSCLC-107-123-2	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	NA	NA	validation	NKI-NSCLC-107-123-TR750
+586	NKI-NSCLC-107-139-2	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-139-TR729
+587	NKI-NSCLC-107-161-2	NSCLC	NSCLC	NKI	<12h	54	M	F	Y	NA	NA	validation	NKI-NSCLC-107-162-TR723
+588	NKI-NSCLC-107-126	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-162-TR748
+589	NKI-NSCLC-107-183	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-183-TR735
+590	NKI-NSCLC-107-245-2	NSCLC	NSCLC	NKI	<12h	67	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-107-245-TR744
+591	NKI-NSCLC-107-262	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-262-TR730
+592	NKI-NSCLC-107-270	NSCLC	NSCLC	NKI	<12h	67	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-107-270-TR725
+593	NKI-NSCLC-107-288	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-288-TR732
+594	NKI-NSCLC-107-348	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	NA	NA	validation	NKI-NSCLC-107-348-TR753
+595	NKI-NSCLC-107-376	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-376-TR720
+596	NKI-NSCLC-107-395	NSCLC	NSCLC	NKI	<12h	67	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-107-395-TR749
+597	NKI-NSCLC-107-419	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-419-TR745
+598	NKI-NSCLC-107-439	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-439-TR740
+599	NKI-NSCLC-107-455	NSCLC	NSCLC	NKI	<12h	67	F	F	Y	NA	NA	validation	NKI-NSCLC-107-455-TR742
+600	NKI-NSCLC-107-466	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-466-TR738
+601	NKI-NSCLC-107-487	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-487-TR752
+602	NKI-NSCLC-107-508	NSCLC	NSCLC	NKI	<12h	41	M	F	Y	NA	NA	validation	NKI-NSCLC-107-508-TR734
+603	NKI-NSCLC-107-518	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	NA	NA	validation	NKI-NSCLC-107-518-TR724
+604	NKI-NSCLC-107-533	NSCLC	NSCLC	NKI	<12h	54	M	F	Y	NA	NA	validation	NKI-NSCLC-107-533-TR746
+605	NKI-NSCLC-107-546	NSCLC	NSCLC	NKI	<12h	67	M	Y	Y	NA	NA	validation	NKI-NSCLC-107-546-TR741
+606	NKI-NSCLC-107-558	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-558-TR739
+607	NKI-NSCLC-107-572	NSCLC	NSCLC	NKI	<12h	54	M	F	Y	NA	NA	validation	NKI-NSCLC-107-572-TR722
+608	NKI-NSCLC-107-577	NSCLC	NSCLC	NKI	<12h	67	M	Y	Y	NA	NA	validation	NKI-NSCLC-107-577-TR731
+609	NKI-NSCLC-107-599	NSCLC	NSCLC	NKI	<12h	52	M	N	Y	NA	NA	validation	NKI-NSCLC-107-599-TR743
+610	NKI-NSCLC-107-602	NSCLC	NSCLC	NKI	<12h	52	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-107-602-TR747
+611	NKI-NSCLC-107-642	NSCLC	NSCLC	NKI	<12h	49	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-107-642-TR726
+612	NKI-NSCLC-107-660	NSCLC	NSCLC	NKI	<12h	49	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-107-660-TR751
+613	NKI-NSCLC-107-663	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	NA	NA	validation	NKI-NSCLC-107-663-TR733
+614	NKI-NSCLC-107-673	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	NA	NA	validation	NKI-NSCLC-107-673-TR736
+615	NKI-NSCLC-107-691	NSCLC	NSCLC	NKI	<12h	54	M	F	Y	NA	NA	validation	NKI-NSCLC-107-691-TR721
+616	NKI-NSCLC-107-703	NSCLC	NSCLC	NKI	<12h	67	M	Y	Y	NA	NA	validation	NKI-NSCLC-107-703-TR737
+617	NKI-NSCLC-107-705	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	NA	NA	validation	NKI-NSCLC-107-705-TR727
+618	MGH-NSCLC-L115	NSCLC	NSCLC	MGH	>12h	50	F	NA	Y	NA	NA	validation	MGH-NSCLC-L115-TR684
+619	MGH-NSCLC-L116	NSCLC	NSCLC	MGH	>12h	51	F	NA	Y	NA	NA	validation	MGH-NSCLC-L116-TR685
+620	MGH-NSCLC-L117	NSCLC	NSCLC	MGH	>12h	70	F	NA	Y	NA	NA	validation	MGH-NSCLC-L117-TR686
+621	MGH-NSCLC-L118	NSCLC	NSCLC	MGH	>12h	49	F	NA	Y	NA	NA	validation	MGH-NSCLC-L118-TR687
+622	MGH-NSCLC-L119	NSCLC	NSCLC	MGH	>12h	68	F	NA	Y	NA	NA	validation	MGH-NSCLC-L119-TR688
+623	MGH-NSCLC-L121	NSCLC	NSCLC	MGH	>12h	71	F	NA	Y	NA	NA	validation	MGH-NSCLC-L121-TR907
+624	MGH-NSCLC-L126-2	NSCLC	NSCLC	MGH	>12h	55	F	NA	Y	NA	NA	validation	MGH-NSCLC-L126-TR917
+625	MGH-NSCLC-L130	NSCLC	NSCLC	MGH	>12h	65	M	NA	Y	NA	NA	validation	MGH-NSCLC-L130-TR908
+626	MGH-NSCLC-L131	NSCLC	NSCLC	MGH	>12h	58	F	NA	Y	NA	NA	validation	MGH-NSCLC-L131-TR909
+627	MGH-NSCLC-L133	NSCLC	NSCLC	MGH	>12h	58	F	NA	Y	NA	NA	validation	MGH-NSCLC-L133-TR910
+628	MGH-NSCLC-L134	NSCLC	NSCLC	MGH	>12h	53	M	NA	Y	NA	NA	validation	MGH-NSCLC-L134-TR911
+629	MGH-NSCLC-L145	NSCLC	NSCLC	MGH	>12h	53	M	NA	N	NA	NA	validation	MGH-NSCLC-L145-TR912
+630	MGH-NSCLC-L149	NSCLC	NSCLC	MGH	>12h	58	M	NA	Y	NA	NA	validation	MGH-NSCLC-L149-TR883
+631	MGH-NSCLC-L158	NSCLC	NSCLC	MGH	>12h	72	F	NA	Y	NA	NA	validation	MGH-NSCLC-L158-TR913
+632	MGH-NSCLC-L169	NSCLC	NSCLC	MGH	>12h	67	F	NA	Y	NA	NA	validation	MGH-NSCLC-L169-TR914
+633	MGH-NSCLC-L173	NSCLC	NSCLC	MGH	>12h	63	M	NA	Y	NA	NA	validation	MGH-NSCLC-L173-TR915
+634	MGH-NSCLC-L178	NSCLC	NSCLC	MGH	>12h	60	F	NA	Y	NA	NA	validation	MGH-NSCLC-L178-TR918
+635	MGH-NSCLC-L180	NSCLC	NSCLC	MGH	>12h	68	M	NA	N	NA	NA	validation	MGH-NSCLC-L180-TR919
+636	Vumc-NSCLC-212	NSCLC	NSCLC	VUMC	<12h	88	M	Y	Y	Dabrafenib	NA	validation	Vumc-NSCLC-212-TR878
+637	Vumc-NSCLC-248	NSCLC	NSCLC	VUMC	<12h	88	M	Y	Y	Dabrafenib	NA	validation	Vumc-NSCLC-248-TR1004
+638	NKI-NSCLC-1476	NSCLC	NSCLC	NKI	<12h	74	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1476-TR1342
+639	NKI-NSCLC-1530	NSCLC	NSCLC	NKI	<12h	75	M	F	Y	NA	NA	validation	NKI-NSCLC-1530-TR1383
+640	NKI-NSCLC-856	NSCLC	NSCLC	NKI	<12h	66	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-856-TR1313
+641	NKI-NSCLC-1034	NSCLC	NSCLC	NKI	<12h	68	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1034-TR1326
+642	NKI-NSCLC-1029	NSCLC	NSCLC	NKI	<12h	58	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1029-TR1328
+643	NKI-NSCLC-1211	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1211-TR1286
+644	NKI-NSCLC-1528	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1528-TR1382
+645	NKI-NSCLC-706	NSCLC	NSCLC	NKI	<12h	74	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-706-TR1314
+646	NKI-NSCLC-868	NSCLC	NSCLC	NKI	<12h	58	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-868-TR1316
+647	NKI-NSCLC-1198	NSCLC	NSCLC	NKI	<12h	57	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1198-TR1318
+648	NKI-NSCLC-1205	NSCLC	NSCLC	NKI	<12h	66	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1205-TR1320
+649	NKI-NSCLC-1082	NSCLC	NSCLC	NKI	<12h	67	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1082-TR1322
+650	NKI-NSCLC-1422	NSCLC	NSCLC	NKI	<12h	75	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1422-TR1337
+651	NKI-NSCLC-1128	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1128-TR1285
+652	NKI-NSCLC-1019	NSCLC	NSCLC	NKI	<12h	63	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1019-TR1277
+653	NKI-NSCLC-1244	NSCLC	NSCLC	NKI	<12h	58	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1244-TR1280
+654	NKI-NSCLC-1143	NSCLC	NSCLC	NKI	<12h	68	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1143-TR1282
+655	NKI-NSCLC-1043	NSCLC	NSCLC	NKI	<12h	65	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1043-TR1283
+656	NKI-NSCLC-1109	NSCLC	NSCLC	NKI	<12h	70	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1109-TR1284
+657	Vumc-NSCLC-335	NSCLC	NSCLC	VUMC	<12h	62	M	N	Y	Nivolumab	NA	validation	Vumc-NSCLC-335-TR1294
+658	Vumc-NSCLC-178	NSCLC	NSCLC	VUMC	<12h	61	M	N	Y	NA	NA	validation	Vumc-NSCLC-178-TR1255
+659	Vumc-NSCLC-323	NSCLC	NSCLC	VUMC	<12h	55	M	Y	Y	Nivolumab	NA	validation	Vumc-NSCLC-323-TR1245
+660	NKI-NSCLC-1369	NSCLC	NSCLC	NKI	<12h	74	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1369-TR1311
+661	NKI-NSCLC-1016	NSCLC	NSCLC	NKI	<12h	53	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1016-TR1329
+662	NKI-NSCLC-352	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-352-TR1330
+663	NKI-NSCLC-1470	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1470-TR1384
+664	NKI-NSCLC-1613	NSCLC	NSCLC	NKI	<12h	59	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1613-TR1335
+665	NKI-NSCLC-865	NSCLC	NSCLC	NKI	<12h	67	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-865-TR1312
+666	NKI-NSCLC-1379	NSCLC	NSCLC	NKI	<12h	59	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1379-TR1309
+667	NKI-NSCLC-1553	NSCLC	NSCLC	NKI	<12h	61	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1553-TR1331
+668	NKI-NSCLC-1348	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1348-TR1332
+669	NKI-NSCLC-1349	NSCLC	NSCLC	NKI	<12h	65	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1349-TR1333
+670	NKI-NSCLC-1342	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1342-TR1334
+671	NKI-NSCLC-1409	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1409-TR1336
+672	NKI-NSCLC-582	NSCLC	NSCLC	NKI	<12h	69	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-582-TR1279
+673	NKI-NSCLC-1054	NSCLC	NSCLC	NKI	<12h	58	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1054-TR1324
+674	NKI-NSCLC-1041	NSCLC	NSCLC	NKI	<12h	NA	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1041-TR1281
+675	NKI-NSCLC-879	NSCLC	NSCLC	NKI	<12h	72	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-879-TR1315
+676	NKI-NSCLC-975	NSCLC	NSCLC	NKI	<12h	73	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-975-TR1317
+677	NKI-NSCLC-882	NSCLC	NSCLC	NKI	<12h	58	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-882-TR1319
+678	NKI-NSCLC-1255	NSCLC	NSCLC	NKI	<12h	50	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1255-TR1321
+679	NKI-NSCLC-895	NSCLC	NSCLC	NKI	<12h	66	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-895-TR1323
+680	NKI-NSCLC-1059	NSCLC	NSCLC	NKI	<12h	73	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1059-TR1327
+681	Vumc-NSCLC-253	NSCLC	NSCLC	VUMC	<12h	53	F	F	N	Nivolumab	NA	validation	Vumc-NSCLC-253-TR1237
+682	Vumc-NSCLC-391	NSCLC	NSCLC	VUMC	<12h	65	M	F	Y	Nivolumab	NA	validation	Vumc-NSCLC-391-TR1272
+683	NKI-NSCLC-1420	NSCLC	NSCLC	NKI	<12h	57	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1420-TR1338
+684	NKI-NSCLC-1459	NSCLC	NSCLC	NKI	<12h	65	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1459-TR1339
+685	NKI-NSCLC-1485	NSCLC	NSCLC	NKI	<12h	60	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1485-TR1340
+686	NKI-NSCLC-1535	NSCLC	NSCLC	NKI	<12h	38	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1535-TR1308
+687	NKI-NSCLC-1587	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1587-TR1343
+688	NKI-NSCLC-1652	NSCLC	NSCLC	NKI	<12h	38	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1652-TR1344
+689	NKI-NSCLC-1565	NSCLC	NSCLC	NKI	<12h	65	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1565-TR1345
+690	NKI-NSCLC-689	NSCLC	NSCLC	NKI	<12h	62	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-689-TR1325
+691	NKI-NSCLC-1362	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1362-TR1381
+692	Vumc-NSCLC-404	NSCLC	NSCLC	VUMC	<12h	73	M	F	Y	Nivolumab	NA	validation	Vumc-NSCLC-404-TR1274
+693	Vumc-NSCLC-251	NSCLC	NSCLC	VUMC	<12h	69	M	N	Y	Nivolumab	NA	validation	Vumc-NSCLC-251-TR1276
+694	NKI-NSCLC-1667	NSCLC	NSCLC	NKI	<12h	68	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1667-TR1341
+695	NKI-NSCLC-281	NSCLC	NSCLC	NKI	<12h	42	M	F	Y	NA	NA	validation	NKI-NSCLC-281-TR1834
+696	NKI-NSCLC-642	NSCLC	NSCLC	NKI	<12h	49	F	F	Y	NA	NA	validation	NKI-NSCLC-642-TR1835
+697	NKI-NSCLC-1114	NSCLC	NSCLC	NKI	<12h	77	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1114-TR1838
+698	NKI-NSCLC-1151	NSCLC	NSCLC	NKI	<12h	58	M	F	Y	NA	NA	validation	NKI-NSCLC-1151-TR1899
+699	NKI-NSCLC-1222	NSCLC	NSCLC	NKI	<12h	72	F	Y	Y	Crizotinib	NA	validation	NKI-NSCLC-1222-TR1837
+700	NKI-NSCLC-1292	NSCLC	NSCLC	NKI	<12h	75	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1292-TR1806
+701	NKI-NSCLC-1523	NSCLC	NSCLC	NKI	<12h	56	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1523-TR1846
+702	NKI-NSCLC-1544	NSCLC	NSCLC	NKI	<12h	63	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1544-TR1891
+703	NKI-NSCLC-1574	NSCLC	NSCLC	NKI	<12h	44	F	Y	Y	Crizotinib	NA	validation	NKI-NSCLC-1574-TR1836
+704	NKI-NSCLC-1589	NSCLC	NSCLC	NKI	<12h	49	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1589-TR1895
+705	NKI-NSCLC-1593	NSCLC	NSCLC	NKI	<12h	55	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1593-TR1845
+706	NKI-NSCLC-1653	NSCLC	NSCLC	NKI	<12h	73	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1653-TR1893
+707	NKI-NSCLC-1663	NSCLC	NSCLC	NKI	<12h	67	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1663-TR1808
+708	NKI-NSCLC-1665	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1665-TR1894
+709	NKI-NSCLC-1671	NSCLC	NSCLC	NKI	<12h	55	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1671-TR1912
+710	NKI-NSCLC-1725	NSCLC	NSCLC	NKI	<12h	65	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1725-TR1896
+711	NKI-NSCLC-1777	NSCLC	NSCLC	NKI	<12h	64	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1777-TR1788
+712	NKI-NSCLC-1844	NSCLC	NSCLC	NKI	<12h	70	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1844-TR1890
+713	NKI-NSCLC-1922	NSCLC	NSCLC	NKI	<12h	77	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1922-TR1841
+714	NKI-NSCLC-1924	NSCLC	NSCLC	NKI	<12h	64	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-1924-TR1892
+715	NKI-NSCLC-1931	NSCLC	NSCLC	NKI	<12h	60	M	N	Y	Nivolumab	NA	validation	NKI-NSCLC-1931-TR1840
+716	NKI-NSCLC-1946	NSCLC	NSCLC	NKI	<12h	68	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-1946-TR1898
+717	NKI-NSCLC-2006	NSCLC	NSCLC	NKI	<12h	60	F	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2006-TR1842
+718	NKI-NSCLC-2062	NSCLC	NSCLC	NKI	<12h	50	F	F	Y	NA	NA	validation	NKI-NSCLC-2062-TR1901
+719	NKI-NSCLC-2079	NSCLC	NSCLC	NKI	<12h	62	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2079-TR1897
+720	NKI-NSCLC-2121	NSCLC	NSCLC	NKI	<12h	50	F	F	Y	NA	NA	validation	NKI-NSCLC-2121-TR1900
+721	NKI-NSCLC-2126	NSCLC	NSCLC	NKI	<12h	68	M	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-2126-TR1843
+722	NKI-NSCLC-2149	NSCLC	NSCLC	NKI	<12h	30	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-2149-TR1848
+723	NKI-NSCLC-2150	NSCLC	NSCLC	NKI	<12h	58	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2150-TR1847
+724	NKI-NSCLC-2153	NSCLC	NSCLC	NKI	<12h	46	F	N	Y	Nivolumab	NA	validation	NKI-NSCLC-2153-TR1839
+725	NKI-NSCLC-2205	NSCLC	NSCLC	NKI	<12h	75	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2205-TR1856
+726	NKI-NSCLC-2220	NSCLC	NSCLC	NKI	<12h	66	F	Y	Y	Nivolumab	NA	validation	NKI-NSCLC-2220-TR1807
+727	NKI-NSCLC-2237	NSCLC	NSCLC	NKI	<12h	58	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2237-TR1853
+728	NKI-NSCLC-2314	NSCLC	NSCLC	NKI	<12h	68	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2314-TR1854
+729	NKI-NSCLC-2403	NSCLC	NSCLC	NKI	<12h	60	M	N	Y	NA	NA	validation	NKI-NSCLC-2403-TR1844
+730	NKI-NSCLC-2194	NSCLC	NSCLC	NKI	<12h	68	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2194-TR1855
+731	NKI-NSCLC-2417	NSCLC	NSCLC	NKI	<12h	74	M	F	Y	Nivolumab	NA	validation	NKI-NSCLC-2417-TR1857
+732	MGH-NSCLC-L189-TR2494	NSCLC	NSCLC	MGH	>12h	48	NA	F	N	NA	NA	validation	MGH-NSCLC-L189-TR2494
+733	MGH-NSCLC-L190-TR2495	NSCLC	NSCLC	MGH	>12h	72	NA	F	N	NA	NA	validation	MGH-NSCLC-L190-TR2495
+734	MGH-NSCLC-L194-TR2500	NSCLC	NSCLC	MGH	>12h	72	NA	NA	N	NA	NA	validation	MGH-NSCLC-L194-TR2500
+735	MGH-NSCLC-L195-TR2496	NSCLC	NSCLC	MGH	>12h	70	NA	N	N	NA	NA	validation	MGH-NSCLC-L195-TR2496
+736	MGH-NSCLC-L206-TR2497	NSCLC	NSCLC	MGH	>12h	72	NA	F	N	NA	NA	validation	MGH-NSCLC-L206-TR2497
+737	MGH-NSCLC-L216-TR2498	NSCLC	NSCLC	MGH	>12h	66	NA	NA	N	NA	NA	validation	MGH-NSCLC-L216-TR2498
+738	MGH-NSCLC-L217-TR2499	NSCLC	NSCLC	MGH	>12h	79	NA	F	N	NA	NA	validation	MGH-NSCLC-L217-TR2499
+739	NKI-NSCLC-0117-TR2484	NSCLC	NSCLC	NKI	<12h	68	NA	F	N	NA	NA	validation	NKI-NSCLC-0117-TR2484
+740	NKI-NSCLC-0134-TR2485	NSCLC	NSCLC	NKI	<12h	56	NA	Y	N	NA	NA	validation	NKI-NSCLC-0134-TR2485
+741	NKI-NSCLC-0193-TR2486	NSCLC	NSCLC	NKI	<12h	62	NA	F	N	NA	NA	validation	NKI-NSCLC-0193-TR2486
+742	NKI-NSCLC-0220-TR2487	NSCLC	NSCLC	NKI	<12h	50	NA	F	N	NA	NA	validation	NKI-NSCLC-0220-TR2487
+743	NKI-NSCLC-0229-TR2488	NSCLC	NSCLC	NKI	<12h	63	NA	F	N	NA	NA	validation	NKI-NSCLC-0229-TR2488
+744	NKI-NSCLC-0334-TR2506	NSCLC	NSCLC	NKI	<12h	62	NA	F	N	NA	NA	validation	NKI-NSCLC-0334-TR2506
+745	NKI-NSCLC-0423-TR2507	NSCLC	NSCLC	NKI	<12h	49	NA	F	N	NA	NA	validation	NKI-NSCLC-0423-TR2507
+746	NKI-NSCLC-0470-TR2508	NSCLC	NSCLC	NKI	<12h	66	NA	F	N	NA	NA	validation	NKI-NSCLC-0470-TR2508
+747	NKI-NSCLC-0527-TR2489	NSCLC	NSCLC	NKI	<12h	62	NA	F	N	NA	NA	validation	NKI-NSCLC-0527-TR2489
+748	NKI-NSCLC-0640-TR2509	NSCLC	NSCLC	NKI	<12h	59	NA	F	N	NA	NA	validation	NKI-NSCLC-0640-TR2509
+749	NKI-NSCLC-0649-TR2510	NSCLC	NSCLC	NKI	<12h	71	NA	F	N	NA	NA	validation	NKI-NSCLC-0649-TR2510
+750	NKI-NSCLC-0760-TR2490	NSCLC	NSCLC	NKI	<12h	58	NA	Y	N	NA	NA	validation	NKI-NSCLC-0760-TR2490
+751	NKI-NSCLC-0762-TR2511	NSCLC	NSCLC	NKI	<12h	51	NA	F	N	NA	NA	validation	NKI-NSCLC-0762-TR2511
+752	NKI-NSCLC-0818-TR2512	NSCLC	NSCLC	NKI	<12h	62	NA	F	N	NA	NA	validation	NKI-NSCLC-0818-TR2512
+753	NKI-NSCLC-1691-TR2491	NSCLC	NSCLC	NKI	<12h	54	NA	F	N	NA	NA	validation	NKI-NSCLC-1691-TR2491
+754	NKI-NSCLC-2332-TR2513	NSCLC	NSCLC	NKI	<12h	57	NA	Y	N	NA	NA	validation	NKI-NSCLC-2332-TR2513
+755	NKI-NSCLC-2381-TR2514	NSCLC	NSCLC	NKI	<12h	63	NA	F	N	NA	NA	validation	NKI-NSCLC-2381-TR2514
+756	NKI-NSCLC-2676-TR2515	NSCLC	NSCLC	NKI	<12h	64	NA	Y	N	NA	NA	validation	NKI-NSCLC-2676-TR2515
+757	NKI-NSCLC-2679-TR2492	NSCLC	NSCLC	NKI	<12h	65	NA	F	N	NA	NA	validation	NKI-NSCLC-2679-TR2492
+758	NKI-NSCLC-3147-TR2516	NSCLC	NSCLC	NKI	<12h	63	NA	F	N	NA	NA	validation	NKI-NSCLC-3147-TR2516
+759	NKI-NSCLC-3209-TR2517	NSCLC	NSCLC	NKI	<12h	62	NA	F	N	NA	NA	validation	NKI-NSCLC-3209-TR2517
+760	NKI-NSCLC-3211-TR2518	NSCLC	NSCLC	NKI	<12h	62	NA	Y	N	NA	NA	validation	NKI-NSCLC-3211-TR2518
+761	NKI-NSCLC-4067-TR2519	NSCLC	NSCLC	NKI	<12h	53	NA	F	N	NA	NA	validation	NKI-NSCLC-4067-TR2519
+762	NKI-NSCLC-4202-TR2520	NSCLC	NSCLC	NKI	<12h	76	NA	F	N	NA	NA	validation	NKI-NSCLC-4202-TR2520
+763	NKI-NSCLC-4245-TR2521	NSCLC	NSCLC	NKI	<12h	66	NA	F	N	NA	NA	validation	NKI-NSCLC-4245-TR2521
+764	NKI-NSCLC-4649-TR2522	NSCLC	NSCLC	NKI	<12h	83	NA	N	N	NA	NA	validation	NKI-NSCLC-4649-TR2522
+765	NKI-NSCLC-4780-TR2523	NSCLC	NSCLC	NKI	<12h	63	NA	F	N	NA	NA	validation	NKI-NSCLC-4780-TR2523
+766	NKI-NSCLC-4888-TR2493	NSCLC	NSCLC	NKI	<12h	79	NA	F	N	NA	NA	validation	NKI-NSCLC-4888-TR2493
+767	NKI-NSCLC-5465-TR2524	NSCLC	NSCLC	NKI	<12h	71	NA	F	N	NA	NA	validation	NKI-NSCLC-5465-TR2524
+768	Vumc-NSCLC-388-TR2477	NSCLC	NSCLC	VUMC	<12h	68	NA	NA	N	NA	NA	validation	Vumc-NSCLC-388-TR2477
+769	Vumc-NSCLC-390-TR2479	NSCLC	NSCLC	VUMC	<12h	61	NA	Y	N	NA	NA	validation	Vumc-NSCLC-390-TR2479
+770	Vumc-NSCLC-393-TR2478	NSCLC	NSCLC	VUMC	<12h	62	NA	NA	N	NA	NA	validation	Vumc-NSCLC-393-TR2478
+771	Vumc-NSCLC-459-TR2480	NSCLC	NSCLC	VUMC	<12h	60	NA	NA	N	NA	NA	validation	Vumc-NSCLC-459-TR2480
+772	Vumc-NSCLC-539-TR2482	NSCLC	NSCLC	VUMC	<12h	62	NA	F	N	NA	NA	validation	Vumc-NSCLC-539-TR2482
+773	Vumc-NSCLC-577-TR2483	NSCLC	NSCLC	VUMC	<12h	57	NA	F	N	NA	NA	validation	Vumc-NSCLC-577-TR2483
+774	Vumc-NSCLC-782-TR2501	NSCLC	NSCLC	VUMC	<12h	61	NA	NA	N	NA	NA	validation	Vumc-NSCLC-782-TR2501
+775	Vumc-NSCLC-804-TR2502	NSCLC	NSCLC	VUMC	<12h	51	NA	Y	N	NA	NA	validation	Vumc-NSCLC-804-TR2502
+776	Vumc-NSCLC-859-TR2503	NSCLC	NSCLC	VUMC	<12h	54	NA	NA	N	NA	NA	validation	Vumc-NSCLC-859-TR2503
+777	Vumc-NSCLC-928-TR2504	NSCLC	NSCLC	VUMC	<12h	68	NA	NA	N	NA	NA	validation	Vumc-NSCLC-928-TR2504
+778	Vumc-NSCLC-1190-TR2199	NSCLC	NSCLC	VUMC	<12h	67	NA	N	N	NA	NA	validation	Vumc-NSCLC-1190-TR2199
+779	Vumc-NSCLC-441-TR2238	NSCLC	NSCLC	VUMC	<12h	55	NA	F	N	NA	NA	validation	Vumc-NSCLC-441-TR2238
